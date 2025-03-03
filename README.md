@@ -1,5 +1,5 @@
 # SPU-IMR: Self-supervised Arbitrary-scale Point Cloud Upsampling via Iterative Mask-recovery Network
-#### Environment
+## Environment
 
 ` Pytorch = 1.9.0 ` 
 
@@ -7,13 +7,13 @@
 
 
 
-#### Training
+## Training
 
 `python train.py`
 
 
 
-#### Evaluation
+## Evaluation
 
 `cd eval`
 
