@@ -14,12 +14,20 @@ python train.py
 The dataset we used for training and testing is obtained by [SAPCU](https://github.com/xnowbzhao/sapcu).
 ```
 https://pan.baidu.com/s/1OPVnCHq129DBMWh5BA2Whg 
-access code: hgii 
+access code: hgii
+
+or
+
+https://1drv.ms/f/s!AsP2NtMX-kUTml4U3DYUD6Hy9FJn?e=8QfJTH
 ```
 
 ## Evaluation
 ### a. Download models
 Download the pretrained models from the link and unzip it to ./out/
+```
+link: https://pan.baidu.com/s/1cDm9_OowPoEx8D0BLADS4g?pwd=hpfz
+code: hpfz 
+```
 ### b. Evaluation
 ```
 cd eval
