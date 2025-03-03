@@ -1,0 +1,55 @@
+method: SPU-IMR
+data:
+  input_type: pointcloud
+  path:  /data/path/to/ShapeNet_train1024/
+  train_split: train
+  val_split: val
+  test_split: test
+  up_rate: 8
+
+transformer:
+  up_rate: 8
+  d_model: 384
+  h: 8
+  d_ff: 1024
+  dropout: 0.1
+  N: 6
+
+model:
+  dim: 3
+  mr1: 0.10
+  mr2: 0.20 
+  mr3: 0.30
+  mr4: 0.40
+  mr5: 0.50
+  mr6: 0.60
+  mr7: 0.70
+  mr8: 0.80
+  mr9: 0.90
+  mask_type: 'rand'
+  trans_dim: 384
+  encoder_dims: 384
+  depth: 12
+  drop_path_rate: 0.1
+  num_heads: 6
+  decoder_depth: 4
+  decoder_num_heads: 6
+  group_size: 16
+  num_group: 256
+  gen_points: 1024
+  
+training:
+  learning_rate: 0.001
+  epoch: 6000
+  batch_size: 128
+  print_every: 100
+  visualize_every: 2000
+  checkpoint_every: 500
+  validate_every: 1000
+  backup_every: 100000
+
+test:
+  model_file: 'model_best.pt'
+
+generation:
+  generation_dir: test

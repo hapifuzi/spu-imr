@@ -1,0 +1,1939 @@
+Total number of parameters: 44414512[Epoch 03] it=100, loss=0.127994
+[Epoch 06] it=200, loss=0.120641
+[Epoch 10] it=300, loss=0.137314
+[Epoch 13] it=400, loss=0.131222
+[Epoch 17] it=500, loss=0.127511
+Saving checkpoint[Epoch 20] it=600, loss=0.110624
+[Epoch 24] it=700, loss=0.124486
+[Epoch 27] it=800, loss=0.115528
+[Epoch 31] it=900, loss=0.115740
+[Epoch 34] it=1000, loss=0.153630
+Saving checkpointValidation metric : 0.127883
+New best model (loss 0.127883)
+[Epoch 37] it=1100, loss=0.117220
+[Epoch 41] it=1200, loss=0.120821
+[Epoch 44] it=1300, loss=0.130274
+[Epoch 48] it=1400, loss=0.116020
+[Epoch 51] it=1500, loss=0.112009
+Saving checkpoint[Epoch 55] it=1600, loss=0.115700
+[Epoch 58] it=1700, loss=0.117328
+[Epoch 62] it=1800, loss=0.107496
+[Epoch 65] it=1900, loss=0.118092
+[Epoch 68] it=2000, loss=0.106031
+Saving checkpointValidation metric : 0.106496
+New best model (loss 0.106496)
+[Epoch 72] it=2100, loss=0.106908
+[Epoch 75] it=2200, loss=0.112551
+[Epoch 79] it=2300, loss=0.102812
+[Epoch 82] it=2400, loss=0.102002
+[Epoch 86] it=2500, loss=0.106573
+Saving checkpoint[Epoch 89] it=2600, loss=0.104222
+[Epoch 93] it=2700, loss=0.101262
+[Epoch 96] it=2800, loss=0.103628
+[Epoch 100] it=2900, loss=0.110417
+[Epoch 103] it=3000, loss=0.107918
+Saving checkpointValidation metric : 0.108046
+[Epoch 106] it=3100, loss=0.106135
+[Epoch 110] it=3200, loss=0.104326
+[Epoch 113] it=3300, loss=0.101488
+[Epoch 117] it=3400, loss=0.106144
+[Epoch 120] it=3500, loss=0.103794
+Saving checkpoint[Epoch 124] it=3600, loss=0.099511
+[Epoch 127] it=3700, loss=0.099132
+[Epoch 131] it=3800, loss=0.102386
+[Epoch 134] it=3900, loss=0.100473
+[Epoch 137] it=4000, loss=0.100530
+Saving checkpointValidation metric : 0.107416
+[Epoch 141] it=4100, loss=0.095432
+[Epoch 144] it=4200, loss=0.094070
+[Epoch 148] it=4300, loss=0.096204
+[Epoch 151] it=4400, loss=0.099556
+[Epoch 155] it=4500, loss=0.094008
+Saving checkpoint[Epoch 158] it=4600, loss=0.092480
+[Epoch 162] it=4700, loss=0.085925
+[Epoch 165] it=4800, loss=0.091022
+[Epoch 168] it=4900, loss=0.092192
+[Epoch 172] it=5000, loss=0.087068
+Saving checkpointValidation metric : 0.118991
+[Epoch 175] it=5100, loss=0.086084
+[Epoch 179] it=5200, loss=0.088517
+[Epoch 182] it=5300, loss=0.088704
+[Epoch 186] it=5400, loss=0.080264
+[Epoch 189] it=5500, loss=0.081969
+Saving checkpoint[Epoch 193] it=5600, loss=0.082407
+[Epoch 196] it=5700, loss=0.082323
+[Epoch 200] it=5800, loss=0.081216
+[Epoch 203] it=5900, loss=0.082646
+[Epoch 206] it=6000, loss=0.081749
+Saving checkpointValidation metric : 0.119968
+[Epoch 210] it=6100, loss=0.078548
+[Epoch 213] it=6200, loss=0.077279
+[Epoch 217] it=6300, loss=0.080122
+[Epoch 220] it=6400, loss=0.079671
+[Epoch 224] it=6500, loss=0.078428
+Saving checkpoint[Epoch 227] it=6600, loss=0.076408
+[Epoch 231] it=6700, loss=0.075115
+[Epoch 234] it=6800, loss=0.075317
+[Epoch 237] it=6900, loss=0.070344
+[Epoch 241] it=7000, loss=0.075855
+Saving checkpointValidation metric : 0.125412
+[Epoch 244] it=7100, loss=0.073479
+[Epoch 248] it=7200, loss=0.073855
+[Epoch 251] it=7300, loss=0.073519
+[Epoch 255] it=7400, loss=0.073514
+[Epoch 258] it=7500, loss=0.072848
+Saving checkpoint[Epoch 262] it=7600, loss=0.074235
+[Epoch 265] it=7700, loss=0.075081
+[Epoch 268] it=7800, loss=0.070757
+[Epoch 272] it=7900, loss=0.074146
+[Epoch 275] it=8000, loss=0.069886
+Saving checkpointValidation metric : 0.124700
+[Epoch 279] it=8100, loss=0.070214
+[Epoch 282] it=8200, loss=0.065697
+[Epoch 286] it=8300, loss=0.067493
+[Epoch 289] it=8400, loss=0.070807
+[Epoch 293] it=8500, loss=0.068390
+Saving checkpoint[Epoch 296] it=8600, loss=0.069403
+[Epoch 300] it=8700, loss=0.070426
+[Epoch 303] it=8800, loss=0.067166
+[Epoch 306] it=8900, loss=0.069533
+[Epoch 310] it=9000, loss=0.068097
+Saving checkpointValidation metric : 0.121831
+[Epoch 313] it=9100, loss=0.069507
+[Epoch 317] it=9200, loss=0.066398
+[Epoch 320] it=9300, loss=0.069824
+[Epoch 324] it=9400, loss=0.066280
+[Epoch 327] it=9500, loss=0.067847
+Saving checkpoint[Epoch 331] it=9600, loss=0.073508
+[Epoch 334] it=9700, loss=0.069004
+[Epoch 337] it=9800, loss=0.066048
+[Epoch 341] it=9900, loss=0.066785
+[Epoch 344] it=10000, loss=0.067785
+Saving checkpointValidation metric : 0.123017
+[Epoch 348] it=10100, loss=0.066510
+[Epoch 351] it=10200, loss=0.070370
+[Epoch 355] it=10300, loss=0.068109
+[Epoch 358] it=10400, loss=0.065881
+[Epoch 362] it=10500, loss=0.067771
+Saving checkpoint[Epoch 365] it=10600, loss=0.064194
+[Epoch 368] it=10700, loss=0.068512
+[Epoch 372] it=10800, loss=0.068413
+[Epoch 375] it=10900, loss=0.064919
+[Epoch 379] it=11000, loss=0.067489
+Saving checkpointValidation metric : 0.122643
+[Epoch 382] it=11100, loss=0.065877
+[Epoch 386] it=11200, loss=0.064212
+[Epoch 389] it=11300, loss=0.066982
+[Epoch 393] it=11400, loss=0.065261
+[Epoch 396] it=11500, loss=0.068193
+Saving checkpoint[Epoch 400] it=11600, loss=0.066550
+[Epoch 403] it=11700, loss=0.063892
+[Epoch 406] it=11800, loss=0.066381
+[Epoch 410] it=11900, loss=0.065264
+[Epoch 413] it=12000, loss=0.065795
+Saving checkpointValidation metric : 0.119672
+[Epoch 417] it=12100, loss=0.065239
+[Epoch 420] it=12200, loss=0.065219
+[Epoch 424] it=12300, loss=0.063702
+[Epoch 427] it=12400, loss=0.066339
+[Epoch 431] it=12500, loss=0.064451
+Saving checkpoint[Epoch 434] it=12600, loss=0.067744
+[Epoch 437] it=12700, loss=0.065609
+[Epoch 441] it=12800, loss=0.061252
+[Epoch 444] it=12900, loss=0.063024
+[Epoch 448] it=13000, loss=0.065853
+Saving checkpointValidation metric : 0.122604
+[Epoch 451] it=13100, loss=0.067019
+[Epoch 455] it=13200, loss=0.064938
+[Epoch 458] it=13300, loss=0.064849
+[Epoch 462] it=13400, loss=0.064526
+[Epoch 465] it=13500, loss=0.061893
+Saving checkpoint[Epoch 468] it=13600, loss=0.066537
+[Epoch 472] it=13700, loss=0.062511
+[Epoch 475] it=13800, loss=0.066015
+[Epoch 479] it=13900, loss=0.064955
+[Epoch 482] it=14000, loss=0.062955
+Saving checkpointValidation metric : 0.119286
+[Epoch 486] it=14100, loss=0.063270
+[Epoch 489] it=14200, loss=0.065592
+[Epoch 493] it=14300, loss=0.064869
+[Epoch 496] it=14400, loss=0.064380
+[Epoch 500] it=14500, loss=0.064220
+Saving checkpoint[Epoch 503] it=14600, loss=0.066809
+[Epoch 506] it=14700, loss=0.063512
+[Epoch 510] it=14800, loss=0.062938
+[Epoch 513] it=14900, loss=0.065872
+[Epoch 517] it=15000, loss=0.062064
+Saving checkpointValidation metric : 0.102207
+New best model (loss 0.102207)
+[Epoch 520] it=15100, loss=0.064812
+[Epoch 524] it=15200, loss=0.065529
+[Epoch 527] it=15300, loss=0.066623
+[Epoch 531] it=15400, loss=0.064769
+[Epoch 534] it=15500, loss=0.064703
+Saving checkpoint[Epoch 537] it=15600, loss=0.066356
+[Epoch 541] it=15700, loss=0.064427
+[Epoch 544] it=15800, loss=0.062836
+[Epoch 548] it=15900, loss=0.064029
+[Epoch 551] it=16000, loss=0.064764
+Saving checkpointValidation metric : 0.105059
+[Epoch 555] it=16100, loss=0.064269
+[Epoch 558] it=16200, loss=0.068335
+[Epoch 562] it=16300, loss=0.064003
+[Epoch 565] it=16400, loss=0.066377
+[Epoch 568] it=16500, loss=0.062619
+Saving checkpoint[Epoch 572] it=16600, loss=0.066811
+[Epoch 575] it=16700, loss=0.062219
+[Epoch 579] it=16800, loss=0.065435
+[Epoch 582] it=16900, loss=0.065940
+[Epoch 586] it=17000, loss=0.064053
+Saving checkpointValidation metric : 0.117922
+[Epoch 589] it=17100, loss=0.062020
+[Epoch 593] it=17200, loss=0.065386
+[Epoch 596] it=17300, loss=0.061913
+[Epoch 600] it=17400, loss=0.065823
+[Epoch 603] it=17500, loss=0.063737
+Saving checkpoint[Epoch 606] it=17600, loss=0.062812
+[Epoch 610] it=17700, loss=0.064683
+[Epoch 613] it=17800, loss=0.064761
+[Epoch 617] it=17900, loss=0.061548
+[Epoch 620] it=18000, loss=0.062878
+Saving checkpointValidation metric : 0.091124
+New best model (loss 0.091124)
+[Epoch 624] it=18100, loss=0.064451
+[Epoch 627] it=18200, loss=0.064765
+[Epoch 631] it=18300, loss=0.065298
+[Epoch 634] it=18400, loss=0.065501
+[Epoch 637] it=18500, loss=0.062173
+Saving checkpoint[Epoch 641] it=18600, loss=0.064898
+[Epoch 644] it=18700, loss=0.064335
+[Epoch 648] it=18800, loss=0.062875
+[Epoch 651] it=18900, loss=0.062316
+[Epoch 655] it=19000, loss=0.065159
+Saving checkpointValidation metric : 0.100933
+[Epoch 658] it=19100, loss=0.064372
+[Epoch 662] it=19200, loss=0.065184
+[Epoch 665] it=19300, loss=0.061688
+[Epoch 668] it=19400, loss=0.063540
+[Epoch 672] it=19500, loss=0.063536
+Saving checkpoint[Epoch 675] it=19600, loss=0.062800
+[Epoch 679] it=19700, loss=0.064461
+[Epoch 682] it=19800, loss=0.062796
+[Epoch 686] it=19900, loss=0.063138
+[Epoch 689] it=20000, loss=0.066977
+Saving checkpointValidation metric : 0.079060
+New best model (loss 0.079060)
+[Epoch 693] it=20100, loss=0.064490
+[Epoch 696] it=20200, loss=0.062763
+[Epoch 700] it=20300, loss=0.069001
+[Epoch 703] it=20400, loss=0.065868
+[Epoch 706] it=20500, loss=0.067396
+Saving checkpoint[Epoch 710] it=20600, loss=0.062111
+[Epoch 713] it=20700, loss=0.062876
+[Epoch 717] it=20800, loss=0.062424
+[Epoch 720] it=20900, loss=0.064755
+[Epoch 724] it=21000, loss=0.063989
+Saving checkpointValidation metric : 0.071250
+New best model (loss 0.071250)
+[Epoch 727] it=21100, loss=0.060292
+[Epoch 731] it=21200, loss=0.064986
+[Epoch 734] it=21300, loss=0.063279
+[Epoch 737] it=21400, loss=0.063307
+[Epoch 741] it=21500, loss=0.062033
+Saving checkpoint[Epoch 744] it=21600, loss=0.061669
+[Epoch 748] it=21700, loss=0.064427
+[Epoch 751] it=21800, loss=0.063310
+[Epoch 755] it=21900, loss=0.065217
+[Epoch 758] it=22000, loss=0.064389
+Saving checkpointValidation metric : 0.085071
+[Epoch 762] it=22100, loss=0.063571
+[Epoch 765] it=22200, loss=0.063456
+[Epoch 768] it=22300, loss=0.061337
+[Epoch 772] it=22400, loss=0.063717
+[Epoch 775] it=22500, loss=0.065875
+Saving checkpoint[Epoch 779] it=22600, loss=0.066460
+[Epoch 782] it=22700, loss=0.061498
+[Epoch 786] it=22800, loss=0.062346
+[Epoch 789] it=22900, loss=0.063169
+[Epoch 793] it=23000, loss=0.062991
+Saving checkpointValidation metric : 0.077191
+[Epoch 796] it=23100, loss=0.061746
+[Epoch 800] it=23200, loss=0.062761
+[Epoch 803] it=23300, loss=0.062358
+[Epoch 806] it=23400, loss=0.065298
+[Epoch 810] it=23500, loss=0.065421
+Saving checkpoint[Epoch 813] it=23600, loss=0.064212
+[Epoch 817] it=23700, loss=0.065856
+[Epoch 820] it=23800, loss=0.063044
+[Epoch 824] it=23900, loss=0.064300
+[Epoch 827] it=24000, loss=0.064186
+Saving checkpointValidation metric : 0.082843
+[Epoch 831] it=24100, loss=0.062340
+[Epoch 834] it=24200, loss=0.063790
+[Epoch 837] it=24300, loss=0.063348
+[Epoch 841] it=24400, loss=0.065520
+[Epoch 844] it=24500, loss=0.063516
+Saving checkpoint[Epoch 848] it=24600, loss=0.062808
+[Epoch 851] it=24700, loss=0.063670
+[Epoch 855] it=24800, loss=0.062441
+[Epoch 858] it=24900, loss=0.063341
+[Epoch 862] it=25000, loss=0.061031
+Saving checkpointValidation metric : 0.074853
+[Epoch 865] it=25100, loss=0.067098
+[Epoch 868] it=25200, loss=0.062826
+[Epoch 872] it=25300, loss=0.061408
+[Epoch 875] it=25400, loss=0.063873
+[Epoch 879] it=25500, loss=0.061732
+Saving checkpoint[Epoch 882] it=25600, loss=0.062106
+[Epoch 886] it=25700, loss=0.062508
+[Epoch 889] it=25800, loss=0.063953
+[Epoch 893] it=25900, loss=0.064779
+[Epoch 896] it=26000, loss=0.065573
+Saving checkpointValidation metric : 0.076225
+[Epoch 900] it=26100, loss=0.065080
+[Epoch 903] it=26200, loss=0.064948
+[Epoch 906] it=26300, loss=0.061573
+[Epoch 910] it=26400, loss=0.063844
+[Epoch 913] it=26500, loss=0.062781
+Saving checkpoint[Epoch 917] it=26600, loss=0.062345
+[Epoch 920] it=26700, loss=0.064737
+[Epoch 924] it=26800, loss=0.065985
+[Epoch 927] it=26900, loss=0.063038
+[Epoch 931] it=27000, loss=0.064718
+Saving checkpointValidation metric : 0.063344
+New best model (loss 0.063344)
+[Epoch 934] it=27100, loss=0.063598
+[Epoch 937] it=27200, loss=0.062569
+[Epoch 941] it=27300, loss=0.061836
+[Epoch 944] it=27400, loss=0.062796
+[Epoch 948] it=27500, loss=0.063199
+Saving checkpoint[Epoch 951] it=27600, loss=0.064819
+[Epoch 955] it=27700, loss=0.061438
+[Epoch 958] it=27800, loss=0.065496
+[Epoch 962] it=27900, loss=0.062876
+[Epoch 965] it=28000, loss=0.062053
+Saving checkpointValidation metric : 0.069500
+[Epoch 968] it=28100, loss=0.066031
+[Epoch 972] it=28200, loss=0.062725
+[Epoch 975] it=28300, loss=0.065136
+[Epoch 979] it=28400, loss=0.064286
+[Epoch 982] it=28500, loss=0.063935
+Saving checkpoint[Epoch 986] it=28600, loss=0.064787
+[Epoch 989] it=28700, loss=0.061687
+[Epoch 993] it=28800, loss=0.064371
+[Epoch 996] it=28900, loss=0.063785
+[Epoch 1000] it=29000, loss=0.062307
+Saving checkpointValidation metric : 0.070840
+[Epoch 1003] it=29100, loss=0.060597
+[Epoch 1006] it=29200, loss=0.062743
+[Epoch 1010] it=29300, loss=0.065200
+[Epoch 1013] it=29400, loss=0.065803
+[Epoch 1017] it=29500, loss=0.061970
+Saving checkpoint[Epoch 1020] it=29600, loss=0.061375
+[Epoch 1024] it=29700, loss=0.063904
+[Epoch 1027] it=29800, loss=0.066179
+[Epoch 1031] it=29900, loss=0.064219
+[Epoch 1034] it=30000, loss=0.063649
+Saving checkpointValidation metric : 0.089511
+[Epoch 1037] it=30100, loss=0.063456
+[Epoch 1041] it=30200, loss=0.062778
+[Epoch 1044] it=30300, loss=0.062695
+[Epoch 1048] it=30400, loss=0.064618
+[Epoch 1051] it=30500, loss=0.064690
+Saving checkpoint[Epoch 1055] it=30600, loss=0.062313
+[Epoch 1058] it=30700, loss=0.062285
+[Epoch 1062] it=30800, loss=0.062838
+[Epoch 1065] it=30900, loss=0.065129
+[Epoch 1068] it=31000, loss=0.063758
+Saving checkpointValidation metric : 0.083654
+[Epoch 1072] it=31100, loss=0.062194
+[Epoch 1075] it=31200, loss=0.063392
+[Epoch 1079] it=31300, loss=0.063273
+[Epoch 1082] it=31400, loss=0.065643
+[Epoch 1086] it=31500, loss=0.063879
+Saving checkpoint[Epoch 1089] it=31600, loss=0.064151
+[Epoch 1093] it=31700, loss=0.065244
+[Epoch 1096] it=31800, loss=0.061667
+[Epoch 1100] it=31900, loss=0.060581
+[Epoch 1103] it=32000, loss=0.061098
+Saving checkpointValidation metric : 0.125214
+[Epoch 1106] it=32100, loss=0.065663
+[Epoch 1110] it=32200, loss=0.062487
+[Epoch 1113] it=32300, loss=0.065871
+[Epoch 1117] it=32400, loss=0.064675
+[Epoch 1120] it=32500, loss=0.064368
+Saving checkpoint[Epoch 1124] it=32600, loss=0.062201
+[Epoch 1127] it=32700, loss=0.064505
+[Epoch 1131] it=32800, loss=0.061871
+[Epoch 1134] it=32900, loss=0.063299
+[Epoch 1137] it=33000, loss=0.060662
+Saving checkpointValidation metric : 0.079720
+[Epoch 1141] it=33100, loss=0.062625
+[Epoch 1144] it=33200, loss=0.064014
+[Epoch 1148] it=33300, loss=0.059512
+[Epoch 1151] it=33400, loss=0.064962
+[Epoch 1155] it=33500, loss=0.062571
+Saving checkpoint[Epoch 1158] it=33600, loss=0.065063
+[Epoch 1162] it=33700, loss=0.063983
+[Epoch 1165] it=33800, loss=0.061548
+[Epoch 1168] it=33900, loss=0.063369
+[Epoch 1172] it=34000, loss=0.061159
+Saving checkpointValidation metric : 0.070024
+[Epoch 1175] it=34100, loss=0.064702
+[Epoch 1179] it=34200, loss=0.061706
+[Epoch 1182] it=34300, loss=0.062804
+[Epoch 1186] it=34400, loss=0.064774
+[Epoch 1189] it=34500, loss=0.062459
+Saving checkpoint[Epoch 1193] it=34600, loss=0.066889
+[Epoch 1196] it=34700, loss=0.063370
+[Epoch 1200] it=34800, loss=0.063645
+[Epoch 1203] it=34900, loss=0.063549
+[Epoch 1206] it=35000, loss=0.062156
+Saving checkpointValidation metric : 0.073097
+[Epoch 1210] it=35100, loss=0.065280
+[Epoch 1213] it=35200, loss=0.066153
+[Epoch 1217] it=35300, loss=0.064955
+[Epoch 1220] it=35400, loss=0.063559
+[Epoch 1224] it=35500, loss=0.064575
+Saving checkpoint[Epoch 1227] it=35600, loss=0.063655
+[Epoch 1231] it=35700, loss=0.064866
+[Epoch 1234] it=35800, loss=0.065250
+[Epoch 1237] it=35900, loss=0.061494
+[Epoch 1241] it=36000, loss=0.062071
+Saving checkpointValidation metric : 0.063118
+New best model (loss 0.063118)
+[Epoch 1244] it=36100, loss=0.062704
+[Epoch 1248] it=36200, loss=0.061094
+[Epoch 1251] it=36300, loss=0.063082
+[Epoch 1255] it=36400, loss=0.063546
+[Epoch 1258] it=36500, loss=0.064520
+Saving checkpoint[Epoch 1262] it=36600, loss=0.064538
+[Epoch 1265] it=36700, loss=0.063713
+[Epoch 1268] it=36800, loss=0.062816
+[Epoch 1272] it=36900, loss=0.072002
+[Epoch 1275] it=37000, loss=0.062056
+Saving checkpointValidation metric : 0.069092
+[Epoch 1279] it=37100, loss=0.062608
+[Epoch 1282] it=37200, loss=0.066259
+[Epoch 1286] it=37300, loss=0.060191
+[Epoch 1289] it=37400, loss=0.061295
+[Epoch 1293] it=37500, loss=0.064666
+Saving checkpoint[Epoch 1296] it=37600, loss=0.062443
+[Epoch 1300] it=37700, loss=0.060875
+[Epoch 1303] it=37800, loss=0.064577
+[Epoch 1306] it=37900, loss=0.066146
+[Epoch 1310] it=38000, loss=0.062771
+Saving checkpointValidation metric : 0.062372
+New best model (loss 0.062372)
+[Epoch 1313] it=38100, loss=0.064201
+[Epoch 1317] it=38200, loss=0.063332
+[Epoch 1320] it=38300, loss=0.062405
+[Epoch 1324] it=38400, loss=0.062722
+[Epoch 1327] it=38500, loss=0.063042
+Saving checkpoint[Epoch 1331] it=38600, loss=0.063721
+[Epoch 1334] it=38700, loss=0.064835
+[Epoch 1337] it=38800, loss=0.062847
+[Epoch 1341] it=38900, loss=0.065412
+[Epoch 1344] it=39000, loss=0.065261
+Saving checkpointValidation metric : 0.067249
+[Epoch 1348] it=39100, loss=0.063913
+[Epoch 1351] it=39200, loss=0.061874
+[Epoch 1355] it=39300, loss=0.063824
+[Epoch 1358] it=39400, loss=0.064933
+[Epoch 1362] it=39500, loss=0.064847
+Saving checkpoint[Epoch 1365] it=39600, loss=0.063145
+[Epoch 1368] it=39700, loss=0.063283
+[Epoch 1372] it=39800, loss=0.065476
+[Epoch 1375] it=39900, loss=0.063387
+[Epoch 1379] it=40000, loss=0.062475
+Saving checkpointValidation metric : 0.075236
+[Epoch 1382] it=40100, loss=0.063697
+[Epoch 1386] it=40200, loss=0.062212
+[Epoch 1389] it=40300, loss=0.061265
+[Epoch 1393] it=40400, loss=0.061421
+[Epoch 1396] it=40500, loss=0.064489
+Saving checkpoint[Epoch 1400] it=40600, loss=0.062501
+[Epoch 1403] it=40700, loss=0.063748
+[Epoch 1406] it=40800, loss=0.061670
+[Epoch 1410] it=40900, loss=0.062343
+[Epoch 1413] it=41000, loss=0.063858
+Saving checkpointValidation metric : 0.071504
+[Epoch 1417] it=41100, loss=0.062922
+[Epoch 1420] it=41200, loss=0.062421
+[Epoch 1424] it=41300, loss=0.070591
+[Epoch 1427] it=41400, loss=0.062762
+[Epoch 1431] it=41500, loss=0.065606
+Saving checkpoint[Epoch 1434] it=41600, loss=0.063579
+[Epoch 1437] it=41700, loss=0.064642
+[Epoch 1441] it=41800, loss=0.062970
+[Epoch 1444] it=41900, loss=0.063182
+[Epoch 1448] it=42000, loss=0.061476
+Saving checkpointValidation metric : 0.065420
+[Epoch 1451] it=42100, loss=0.061980
+[Epoch 1455] it=42200, loss=0.064451
+[Epoch 1458] it=42300, loss=0.063370
+[Epoch 1462] it=42400, loss=0.062941
+[Epoch 1465] it=42500, loss=0.064158
+Saving checkpoint[Epoch 1468] it=42600, loss=0.065179
+[Epoch 1472] it=42700, loss=0.065308
+[Epoch 1475] it=42800, loss=0.061362
+[Epoch 1479] it=42900, loss=0.061546
+[Epoch 1482] it=43000, loss=0.059371
+Saving checkpointValidation metric : 0.066333
+[Epoch 1486] it=43100, loss=0.062913
+[Epoch 1489] it=43200, loss=0.061473
+[Epoch 1493] it=43300, loss=0.064240
+[Epoch 1496] it=43400, loss=0.062636
+[Epoch 1500] it=43500, loss=0.062291
+Saving checkpoint[Epoch 1503] it=43600, loss=0.065533
+[Epoch 1506] it=43700, loss=0.063653
+[Epoch 1510] it=43800, loss=0.060152
+[Epoch 1513] it=43900, loss=0.063474
+[Epoch 1517] it=44000, loss=0.061919
+Saving checkpointValidation metric : 0.062219
+New best model (loss 0.062219)
+[Epoch 1520] it=44100, loss=0.062873
+[Epoch 1524] it=44200, loss=0.063035
+[Epoch 1527] it=44300, loss=0.064009
+[Epoch 1531] it=44400, loss=0.063126
+[Epoch 1534] it=44500, loss=0.063761
+Saving checkpoint[Epoch 1537] it=44600, loss=0.062663
+[Epoch 1541] it=44700, loss=0.062265
+[Epoch 1544] it=44800, loss=0.064425
+[Epoch 1548] it=44900, loss=0.063372
+[Epoch 1551] it=45000, loss=0.060250
+Saving checkpointValidation metric : 0.065681
+[Epoch 1555] it=45100, loss=0.059656
+[Epoch 1558] it=45200, loss=0.063174
+[Epoch 1562] it=45300, loss=0.061658
+[Epoch 1565] it=45400, loss=0.061451
+[Epoch 1568] it=45500, loss=0.063505
+Saving checkpoint[Epoch 1572] it=45600, loss=0.062234
+[Epoch 1575] it=45700, loss=0.063012
+[Epoch 1579] it=45800, loss=0.063428
+[Epoch 1582] it=45900, loss=0.062785
+[Epoch 1586] it=46000, loss=0.064430
+Saving checkpointValidation metric : 0.064003
+[Epoch 1589] it=46100, loss=0.060228
+[Epoch 1593] it=46200, loss=0.062939
+[Epoch 1596] it=46300, loss=0.062265
+[Epoch 1600] it=46400, loss=0.063671
+[Epoch 1603] it=46500, loss=0.061666
+Saving checkpoint[Epoch 1606] it=46600, loss=0.064340
+[Epoch 1610] it=46700, loss=0.063251
+[Epoch 1613] it=46800, loss=0.063350
+[Epoch 1617] it=46900, loss=0.061703
+[Epoch 1620] it=47000, loss=0.062192
+Saving checkpointValidation metric : 0.073384
+[Epoch 1624] it=47100, loss=0.064352
+[Epoch 1627] it=47200, loss=0.064897
+[Epoch 1631] it=47300, loss=0.066936
+[Epoch 1634] it=47400, loss=0.062690
+[Epoch 1637] it=47500, loss=0.059676
+Saving checkpoint[Epoch 1641] it=47600, loss=0.060899
+[Epoch 1644] it=47700, loss=0.063222
+[Epoch 1648] it=47800, loss=0.063261
+[Epoch 1651] it=47900, loss=0.064146
+[Epoch 1655] it=48000, loss=0.061382
+Saving checkpointValidation metric : 0.062000
+New best model (loss 0.062000)
+[Epoch 1658] it=48100, loss=0.061064
+[Epoch 1662] it=48200, loss=0.061570
+[Epoch 1665] it=48300, loss=0.061706
+[Epoch 1668] it=48400, loss=0.064130
+[Epoch 1672] it=48500, loss=0.063799
+Saving checkpoint[Epoch 1675] it=48600, loss=0.061211
+[Epoch 1679] it=48700, loss=0.063108
+[Epoch 1682] it=48800, loss=0.061368
+[Epoch 1686] it=48900, loss=0.062078
+[Epoch 1689] it=49000, loss=0.060735
+Saving checkpointValidation metric : 0.064163
+[Epoch 1693] it=49100, loss=0.062987
+[Epoch 1696] it=49200, loss=0.061118
+[Epoch 1700] it=49300, loss=0.061653
+[Epoch 1703] it=49400, loss=0.060511
+[Epoch 1706] it=49500, loss=0.062757
+Saving checkpoint[Epoch 1710] it=49600, loss=0.063642
+[Epoch 1713] it=49700, loss=0.064153
+[Epoch 1717] it=49800, loss=0.064160
+[Epoch 1720] it=49900, loss=0.064475
+[Epoch 1724] it=50000, loss=0.061751
+Saving checkpointValidation metric : 0.065165
+[Epoch 1727] it=50100, loss=0.063322
+[Epoch 1731] it=50200, loss=0.061964
+[Epoch 1734] it=50300, loss=0.062477
+[Epoch 1737] it=50400, loss=0.062997
+[Epoch 1741] it=50500, loss=0.062810
+Saving checkpoint[Epoch 1744] it=50600, loss=0.063104
+[Epoch 1748] it=50700, loss=0.062321
+[Epoch 1751] it=50800, loss=0.063120
+[Epoch 1755] it=50900, loss=0.063393
+[Epoch 1758] it=51000, loss=0.061073
+Saving checkpointValidation metric : 0.061670
+New best model (loss 0.061670)
+[Epoch 1762] it=51100, loss=0.060780
+[Epoch 1765] it=51200, loss=0.063869
+[Epoch 1768] it=51300, loss=0.064056
+[Epoch 1772] it=51400, loss=0.061168
+[Epoch 1775] it=51500, loss=0.060598
+Saving checkpoint[Epoch 1779] it=51600, loss=0.065253
+[Epoch 1782] it=51700, loss=0.061594
+[Epoch 1786] it=51800, loss=0.065078
+[Epoch 1789] it=51900, loss=0.065119
+[Epoch 1793] it=52000, loss=0.061358
+Saving checkpointValidation metric : 0.063302
+[Epoch 1796] it=52100, loss=0.062417
+[Epoch 1800] it=52200, loss=0.062623
+[Epoch 1803] it=52300, loss=0.064842
+[Epoch 1806] it=52400, loss=0.064205
+[Epoch 1810] it=52500, loss=0.064739
+Saving checkpoint[Epoch 1813] it=52600, loss=0.062123
+[Epoch 1817] it=52700, loss=0.063156
+[Epoch 1820] it=52800, loss=0.059511
+[Epoch 1824] it=52900, loss=0.062893
+[Epoch 1827] it=53000, loss=0.060944
+Saving checkpointValidation metric : 0.063795
+[Epoch 1831] it=53100, loss=0.062947
+[Epoch 1834] it=53200, loss=0.063709
+[Epoch 1837] it=53300, loss=0.060882
+[Epoch 1841] it=53400, loss=0.062890
+[Epoch 1844] it=53500, loss=0.064229
+Saving checkpoint[Epoch 1848] it=53600, loss=0.062516
+[Epoch 1851] it=53700, loss=0.063598
+[Epoch 1855] it=53800, loss=0.061792
+[Epoch 1858] it=53900, loss=0.063016
+[Epoch 1862] it=54000, loss=0.070351
+Saving checkpointValidation metric : 0.116336
+[Epoch 1865] it=54100, loss=0.064028
+[Epoch 1868] it=54200, loss=0.059666
+[Epoch 1872] it=54300, loss=0.060394
+[Epoch 1875] it=54400, loss=0.061486
+[Epoch 1879] it=54500, loss=0.063096
+Saving checkpoint[Epoch 1882] it=54600, loss=0.060683
+[Epoch 1886] it=54700, loss=0.062557
+[Epoch 1889] it=54800, loss=0.060699
+[Epoch 1893] it=54900, loss=0.061315
+[Epoch 1896] it=55000, loss=0.060964
+Saving checkpointValidation metric : 0.066642
+[Epoch 1900] it=55100, loss=0.064894
+[Epoch 1903] it=55200, loss=0.061909
+[Epoch 1906] it=55300, loss=0.063346
+[Epoch 1910] it=55400, loss=0.062981
+[Epoch 1913] it=55500, loss=0.062682
+Saving checkpoint[Epoch 1917] it=55600, loss=0.066724
+[Epoch 1920] it=55700, loss=0.062389
+[Epoch 1924] it=55800, loss=0.064792
+[Epoch 1927] it=55900, loss=0.065092
+[Epoch 1931] it=56000, loss=0.061703
+Saving checkpointValidation metric : 0.062595
+[Epoch 1934] it=56100, loss=0.060940
+[Epoch 1937] it=56200, loss=0.061627
+[Epoch 1941] it=56300, loss=0.065255
+[Epoch 1944] it=56400, loss=0.062562
+[Epoch 1948] it=56500, loss=0.060326
+Saving checkpoint[Epoch 1951] it=56600, loss=0.062080
+[Epoch 1955] it=56700, loss=0.064051
+[Epoch 1958] it=56800, loss=0.064042
+[Epoch 1962] it=56900, loss=0.064274
+[Epoch 1965] it=57000, loss=0.065801
+Saving checkpointValidation metric : 0.070393
+[Epoch 1968] it=57100, loss=0.060323
+[Epoch 1972] it=57200, loss=0.061678
+[Epoch 1975] it=57300, loss=0.062091
+[Epoch 1979] it=57400, loss=0.065626
+[Epoch 1982] it=57500, loss=0.062570
+Saving checkpoint[Epoch 1986] it=57600, loss=0.062522
+[Epoch 1989] it=57700, loss=0.060829
+[Epoch 1993] it=57800, loss=0.061508
+[Epoch 1996] it=57900, loss=0.062884
+[Epoch 2000] it=58000, loss=0.061707
+Saving checkpointValidation metric : 0.062526
+[Epoch 2003] it=58100, loss=0.070313
+[Epoch 2006] it=58200, loss=0.061429
+[Epoch 2010] it=58300, loss=0.063403
+[Epoch 2013] it=58400, loss=0.062484
+[Epoch 2017] it=58500, loss=0.063505
+Saving checkpoint[Epoch 2020] it=58600, loss=0.064635
+[Epoch 2024] it=58700, loss=0.063196
+[Epoch 2027] it=58800, loss=0.061353
+[Epoch 2031] it=58900, loss=0.060751
+[Epoch 2034] it=59000, loss=0.062164
+Saving checkpointValidation metric : 0.063141
+[Epoch 2037] it=59100, loss=0.063266
+[Epoch 2041] it=59200, loss=0.063214
+[Epoch 2044] it=59300, loss=0.062639
+[Epoch 2048] it=59400, loss=0.061978
+[Epoch 2051] it=59500, loss=0.062233
+Saving checkpoint[Epoch 2055] it=59600, loss=0.060271
+[Epoch 2058] it=59700, loss=0.062972
+[Epoch 2062] it=59800, loss=0.062214
+[Epoch 2065] it=59900, loss=0.065488
+[Epoch 2068] it=60000, loss=0.062433
+Saving checkpointValidation metric : 0.083313
+[Epoch 2072] it=60100, loss=0.061866
+[Epoch 2075] it=60200, loss=0.062600
+[Epoch 2079] it=60300, loss=0.061675
+[Epoch 2082] it=60400, loss=0.064280
+[Epoch 2086] it=60500, loss=0.061100
+Saving checkpoint[Epoch 2089] it=60600, loss=0.064311
+[Epoch 2093] it=60700, loss=0.062183
+[Epoch 2096] it=60800, loss=0.061788
+[Epoch 2100] it=60900, loss=0.062192
+[Epoch 2103] it=61000, loss=0.062318
+Saving checkpointValidation metric : 0.062178
+[Epoch 2106] it=61100, loss=0.062455
+[Epoch 2110] it=61200, loss=0.062330
+[Epoch 2113] it=61300, loss=0.064634
+[Epoch 2117] it=61400, loss=0.061271
+[Epoch 2120] it=61500, loss=0.058990
+Saving checkpoint[Epoch 2124] it=61600, loss=0.061886
+[Epoch 2127] it=61700, loss=0.063455
+[Epoch 2131] it=61800, loss=0.061771
+[Epoch 2134] it=61900, loss=0.063688
+[Epoch 2137] it=62000, loss=0.059602
+Saving checkpointValidation metric : 0.071105
+[Epoch 2141] it=62100, loss=0.061442
+[Epoch 2144] it=62200, loss=0.063651
+[Epoch 2148] it=62300, loss=0.062757
+[Epoch 2151] it=62400, loss=0.060664
+[Epoch 2155] it=62500, loss=0.062674
+Saving checkpoint[Epoch 2158] it=62600, loss=0.062981
+[Epoch 2162] it=62700, loss=0.063088
+[Epoch 2165] it=62800, loss=0.063591
+[Epoch 2168] it=62900, loss=0.061115
+[Epoch 2172] it=63000, loss=0.062119
+Saving checkpointValidation metric : 0.067557
+[Epoch 2175] it=63100, loss=0.061922
+[Epoch 2179] it=63200, loss=0.059870
+[Epoch 2182] it=63300, loss=0.064199
+[Epoch 2186] it=63400, loss=0.062177
+[Epoch 2189] it=63500, loss=0.066396
+Saving checkpoint[Epoch 2193] it=63600, loss=0.063060
+[Epoch 2196] it=63700, loss=0.061567
+[Epoch 2200] it=63800, loss=0.063431
+[Epoch 2203] it=63900, loss=0.063270
+[Epoch 2206] it=64000, loss=0.062181
+Saving checkpointValidation metric : 0.068142
+[Epoch 2210] it=64100, loss=0.063605
+[Epoch 2213] it=64200, loss=0.062145
+[Epoch 2217] it=64300, loss=0.063855
+[Epoch 2220] it=64400, loss=0.063327
+[Epoch 2224] it=64500, loss=0.063569
+Saving checkpoint[Epoch 2227] it=64600, loss=0.062128
+[Epoch 2231] it=64700, loss=0.061738
+[Epoch 2234] it=64800, loss=0.062957
+[Epoch 2237] it=64900, loss=0.063638
+[Epoch 2241] it=65000, loss=0.061627
+Saving checkpointValidation metric : 0.063440
+[Epoch 2244] it=65100, loss=0.060708
+[Epoch 2248] it=65200, loss=0.063338
+[Epoch 2251] it=65300, loss=0.061149
+[Epoch 2255] it=65400, loss=0.061669
+[Epoch 2258] it=65500, loss=0.065000
+Saving checkpoint[Epoch 2262] it=65600, loss=0.062759
+[Epoch 2265] it=65700, loss=0.064419
+[Epoch 2268] it=65800, loss=0.063939
+[Epoch 2272] it=65900, loss=0.061676
+[Epoch 2275] it=66000, loss=0.063471
+Saving checkpointValidation metric : 0.060823
+New best model (loss 0.060823)
+[Epoch 2279] it=66100, loss=0.061865
+[Epoch 2282] it=66200, loss=0.062582
+[Epoch 2286] it=66300, loss=0.063140
+[Epoch 2289] it=66400, loss=0.063347
+[Epoch 2293] it=66500, loss=0.062782
+Saving checkpoint[Epoch 2296] it=66600, loss=0.067210
+[Epoch 2300] it=66700, loss=0.062012
+[Epoch 2303] it=66800, loss=0.064375
+[Epoch 2306] it=66900, loss=0.058683
+[Epoch 2310] it=67000, loss=0.060516
+Saving checkpointValidation metric : 0.064187
+[Epoch 2313] it=67100, loss=0.060662
+[Epoch 2317] it=67200, loss=0.061817
+[Epoch 2320] it=67300, loss=0.063298
+[Epoch 2324] it=67400, loss=0.061715
+[Epoch 2327] it=67500, loss=0.062435
+Saving checkpoint[Epoch 2331] it=67600, loss=0.062339
+[Epoch 2334] it=67700, loss=0.064020
+[Epoch 2337] it=67800, loss=0.061918
+[Epoch 2341] it=67900, loss=0.063056
+[Epoch 2344] it=68000, loss=0.060128
+Saving checkpointValidation metric : 0.063351
+[Epoch 2348] it=68100, loss=0.063241
+[Epoch 2351] it=68200, loss=0.061776
+[Epoch 2355] it=68300, loss=0.062260
+[Epoch 2358] it=68400, loss=0.061559
+[Epoch 2362] it=68500, loss=0.061071
+Saving checkpoint[Epoch 2365] it=68600, loss=0.064380
+[Epoch 2368] it=68700, loss=0.062631
+[Epoch 2372] it=68800, loss=0.062179
+[Epoch 2375] it=68900, loss=0.064351
+[Epoch 2379] it=69000, loss=0.061196
+Saving checkpointValidation metric : 0.062651
+[Epoch 2382] it=69100, loss=0.063294
+[Epoch 2386] it=69200, loss=0.060024
+[Epoch 2389] it=69300, loss=0.063731
+[Epoch 2393] it=69400, loss=0.061246
+[Epoch 2396] it=69500, loss=0.064343
+Saving checkpoint[Epoch 2400] it=69600, loss=0.063912
+[Epoch 2403] it=69700, loss=0.062670
+[Epoch 2406] it=69800, loss=0.064351
+[Epoch 2410] it=69900, loss=0.061517
+[Epoch 2413] it=70000, loss=0.063538
+Saving checkpointValidation metric : 0.063760
+[Epoch 2417] it=70100, loss=0.061987
+[Epoch 2420] it=70200, loss=0.062442
+[Epoch 2424] it=70300, loss=0.060928
+[Epoch 2427] it=70400, loss=0.062362
+[Epoch 2431] it=70500, loss=0.062573
+Saving checkpoint[Epoch 2434] it=70600, loss=0.061614
+[Epoch 2437] it=70700, loss=0.060948
+[Epoch 2441] it=70800, loss=0.059566
+[Epoch 2444] it=70900, loss=0.065486
+[Epoch 2448] it=71000, loss=0.063056
+Saving checkpointValidation metric : 0.064534
+[Epoch 2451] it=71100, loss=0.061325
+[Epoch 2455] it=71200, loss=0.063024
+[Epoch 2458] it=71300, loss=0.061957
+[Epoch 2462] it=71400, loss=0.061082
+[Epoch 2465] it=71500, loss=0.066398
+Saving checkpoint[Epoch 2468] it=71600, loss=0.062459
+[Epoch 2472] it=71700, loss=0.063090
+[Epoch 2475] it=71800, loss=0.060473
+[Epoch 2479] it=71900, loss=0.062693
+[Epoch 2482] it=72000, loss=0.062340
+Saving checkpointValidation metric : 0.067919
+[Epoch 2486] it=72100, loss=0.060963
+[Epoch 2489] it=72200, loss=0.061243
+[Epoch 2493] it=72300, loss=0.062226
+[Epoch 2496] it=72400, loss=0.065919
+[Epoch 2500] it=72500, loss=0.061798
+Saving checkpoint[Epoch 2503] it=72600, loss=0.062835
+[Epoch 2506] it=72700, loss=0.061422
+[Epoch 2510] it=72800, loss=0.061534
+[Epoch 2513] it=72900, loss=0.063493
+[Epoch 2517] it=73000, loss=0.060480
+Saving checkpointValidation metric : 0.061420
+[Epoch 2520] it=73100, loss=0.060807
+[Epoch 2524] it=73200, loss=0.062199
+[Epoch 2527] it=73300, loss=0.061983
+[Epoch 2531] it=73400, loss=0.061619
+[Epoch 2534] it=73500, loss=0.062204
+Saving checkpoint[Epoch 2537] it=73600, loss=0.061528
+[Epoch 2541] it=73700, loss=0.061728
+[Epoch 2544] it=73800, loss=0.065431
+[Epoch 2548] it=73900, loss=0.062074
+[Epoch 2551] it=74000, loss=0.063942
+Saving checkpointValidation metric : 0.061760
+[Epoch 2555] it=74100, loss=0.061910
+[Epoch 2558] it=74200, loss=0.061965
+[Epoch 2562] it=74300, loss=0.059664
+[Epoch 2565] it=74400, loss=0.063042
+[Epoch 2568] it=74500, loss=0.064749
+Saving checkpoint[Epoch 2572] it=74600, loss=0.061477
+[Epoch 2575] it=74700, loss=0.061426
+[Epoch 2579] it=74800, loss=0.062397
+[Epoch 2582] it=74900, loss=0.059550
+[Epoch 2586] it=75000, loss=0.061154
+Saving checkpointValidation metric : 0.061225
+[Epoch 2589] it=75100, loss=0.062134
+[Epoch 2593] it=75200, loss=0.061006
+[Epoch 2596] it=75300, loss=0.061287
+[Epoch 2600] it=75400, loss=0.063795
+[Epoch 2603] it=75500, loss=0.061271
+Saving checkpoint[Epoch 2606] it=75600, loss=0.062592
+[Epoch 2610] it=75700, loss=0.065159
+[Epoch 2613] it=75800, loss=0.063252
+[Epoch 2617] it=75900, loss=0.064763
+[Epoch 2620] it=76000, loss=0.059957
+Saving checkpointValidation metric : 0.064015
+[Epoch 2624] it=76100, loss=0.063371
+[Epoch 2627] it=76200, loss=0.062016
+[Epoch 2631] it=76300, loss=0.063024
+[Epoch 2634] it=76400, loss=0.063417
+[Epoch 2637] it=76500, loss=0.059937
+Saving checkpoint[Epoch 2641] it=76600, loss=0.060505
+[Epoch 2644] it=76700, loss=0.059914
+[Epoch 2648] it=76800, loss=0.061628
+[Epoch 2651] it=76900, loss=0.061966
+[Epoch 2655] it=77000, loss=0.062229
+Saving checkpointValidation metric : 0.063210
+[Epoch 2658] it=77100, loss=0.060868
+[Epoch 2662] it=77200, loss=0.061777
+[Epoch 2665] it=77300, loss=0.062058
+[Epoch 2668] it=77400, loss=0.062150
+[Epoch 2672] it=77500, loss=0.062963
+Saving checkpoint[Epoch 2675] it=77600, loss=0.061243
+[Epoch 2679] it=77700, loss=0.061997
+[Epoch 2682] it=77800, loss=0.061495
+[Epoch 2686] it=77900, loss=0.062876
+[Epoch 2689] it=78000, loss=0.063025
+Saving checkpointValidation metric : 0.062041
+[Epoch 2693] it=78100, loss=0.062169
+[Epoch 2696] it=78200, loss=0.061679
+[Epoch 2700] it=78300, loss=0.063812
+[Epoch 2703] it=78400, loss=0.060189
+[Epoch 2706] it=78500, loss=0.061273
+Saving checkpoint[Epoch 2710] it=78600, loss=0.061914
+[Epoch 2713] it=78700, loss=0.063195
+[Epoch 2717] it=78800, loss=0.060620
+[Epoch 2720] it=78900, loss=0.063637
+[Epoch 2724] it=79000, loss=0.060611
+Saving checkpointValidation metric : 0.060972
+[Epoch 2727] it=79100, loss=0.060362
+[Epoch 2731] it=79200, loss=0.062247
+[Epoch 2734] it=79300, loss=0.060168
+[Epoch 2737] it=79400, loss=0.060219
+[Epoch 2741] it=79500, loss=0.064868
+Saving checkpoint[Epoch 2744] it=79600, loss=0.063752
+[Epoch 2748] it=79700, loss=0.064980
+[Epoch 2751] it=79800, loss=0.061121
+[Epoch 2755] it=79900, loss=0.061183
+[Epoch 2758] it=80000, loss=0.062456
+Saving checkpointValidation metric : 0.059736
+New best model (loss 0.059736)
+[Epoch 2762] it=80100, loss=0.062661
+[Epoch 2765] it=80200, loss=0.063931
+[Epoch 2768] it=80300, loss=0.060213
+[Epoch 2772] it=80400, loss=0.062916
+[Epoch 2775] it=80500, loss=0.060803
+Saving checkpoint[Epoch 2779] it=80600, loss=0.060752
+[Epoch 2782] it=80700, loss=0.059858
+[Epoch 2786] it=80800, loss=0.065808
+[Epoch 2789] it=80900, loss=0.063372
+[Epoch 2793] it=81000, loss=0.062619
+Saving checkpointValidation metric : 0.063685
+[Epoch 2796] it=81100, loss=0.060594
+[Epoch 2800] it=81200, loss=0.060202
+[Epoch 2803] it=81300, loss=0.061891
+[Epoch 2806] it=81400, loss=0.061533
+[Epoch 2810] it=81500, loss=0.062442
+Saving checkpoint[Epoch 2813] it=81600, loss=0.063656
+[Epoch 2817] it=81700, loss=0.061252
+[Epoch 2820] it=81800, loss=0.061467
+[Epoch 2824] it=81900, loss=0.060700
+[Epoch 2827] it=82000, loss=0.063536
+Saving checkpointValidation metric : 0.061646
+[Epoch 2831] it=82100, loss=0.064254
+[Epoch 2834] it=82200, loss=0.063088
+[Epoch 2837] it=82300, loss=0.062191
+[Epoch 2841] it=82400, loss=0.063302
+[Epoch 2844] it=82500, loss=0.062459
+Saving checkpoint[Epoch 2848] it=82600, loss=0.062617
+[Epoch 2851] it=82700, loss=0.062382
+[Epoch 2855] it=82800, loss=0.061253
+[Epoch 2858] it=82900, loss=0.061219
+[Epoch 2862] it=83000, loss=0.062472
+Saving checkpointValidation metric : 0.060865
+[Epoch 2865] it=83100, loss=0.061475
+[Epoch 2868] it=83200, loss=0.061081
+[Epoch 2872] it=83300, loss=0.064439
+[Epoch 2875] it=83400, loss=0.061120
+[Epoch 2879] it=83500, loss=0.064783
+Saving checkpoint[Epoch 2882] it=83600, loss=0.063628
+[Epoch 2886] it=83700, loss=0.063474
+[Epoch 2889] it=83800, loss=0.061043
+[Epoch 2893] it=83900, loss=0.061049
+[Epoch 2896] it=84000, loss=0.064115
+Saving checkpointValidation metric : 0.064166
+[Epoch 2900] it=84100, loss=0.063264
+[Epoch 2903] it=84200, loss=0.063001
+[Epoch 2906] it=84300, loss=0.062888
+[Epoch 2910] it=84400, loss=0.063728
+[Epoch 2913] it=84500, loss=0.061195
+Saving checkpoint[Epoch 2917] it=84600, loss=0.061790
+[Epoch 2920] it=84700, loss=0.060015
+[Epoch 2924] it=84800, loss=0.060306
+[Epoch 2927] it=84900, loss=0.062259
+[Epoch 2931] it=85000, loss=0.060653
+Saving checkpointValidation metric : 0.061317
+[Epoch 2934] it=85100, loss=0.060254
+[Epoch 2937] it=85200, loss=0.063665
+[Epoch 2941] it=85300, loss=0.063921
+[Epoch 2944] it=85400, loss=0.062395
+[Epoch 2948] it=85500, loss=0.061360
+Saving checkpoint[Epoch 2951] it=85600, loss=0.062990
+[Epoch 2955] it=85700, loss=0.062303
+[Epoch 2958] it=85800, loss=0.063110
+[Epoch 2962] it=85900, loss=0.063460
+[Epoch 2965] it=86000, loss=0.062120
+Saving checkpointValidation metric : 0.062271
+[Epoch 2968] it=86100, loss=0.063385
+[Epoch 2972] it=86200, loss=0.061438
+[Epoch 2975] it=86300, loss=0.061882
+[Epoch 2979] it=86400, loss=0.064256
+[Epoch 2982] it=86500, loss=0.061319
+Saving checkpoint[Epoch 2986] it=86600, loss=0.063250
+[Epoch 2989] it=86700, loss=0.064832
+[Epoch 2993] it=86800, loss=0.060258
+[Epoch 2996] it=86900, loss=0.060709
+[Epoch 3000] it=87000, loss=0.064666
+Saving checkpointValidation metric : 0.061692
+[Epoch 3003] it=87100, loss=0.060552
+[Epoch 3006] it=87200, loss=0.059885
+[Epoch 3010] it=87300, loss=0.062149
+[Epoch 3013] it=87400, loss=0.060834
+[Epoch 3017] it=87500, loss=0.061285
+Saving checkpoint[Epoch 3020] it=87600, loss=0.061683
+[Epoch 3024] it=87700, loss=0.063035
+[Epoch 3027] it=87800, loss=0.060533
+[Epoch 3031] it=87900, loss=0.061721
+[Epoch 3034] it=88000, loss=0.061713
+Saving checkpointValidation metric : 0.060787
+[Epoch 3037] it=88100, loss=0.062294
+[Epoch 3041] it=88200, loss=0.063140
+[Epoch 3044] it=88300, loss=0.064015
+[Epoch 3048] it=88400, loss=0.062865
+[Epoch 3051] it=88500, loss=0.059923
+Saving checkpoint[Epoch 3055] it=88600, loss=0.064434
+[Epoch 3058] it=88700, loss=0.062925
+[Epoch 3062] it=88800, loss=0.061139
+[Epoch 3065] it=88900, loss=0.061409
+[Epoch 3068] it=89000, loss=0.067133
+Saving checkpointValidation metric : 0.068050
+[Epoch 3072] it=89100, loss=0.061623
+[Epoch 3075] it=89200, loss=0.063962
+[Epoch 3079] it=89300, loss=0.060154
+[Epoch 3082] it=89400, loss=0.060631
+[Epoch 3086] it=89500, loss=0.059954
+Saving checkpoint[Epoch 3089] it=89600, loss=0.060338
+[Epoch 3093] it=89700, loss=0.060944
+[Epoch 3096] it=89800, loss=0.063569
+[Epoch 3100] it=89900, loss=0.062102
+[Epoch 3103] it=90000, loss=0.060664
+Saving checkpointValidation metric : 0.060253
+[Epoch 3106] it=90100, loss=0.060936
+[Epoch 3110] it=90200, loss=0.059387
+[Epoch 3113] it=90300, loss=0.060912
+[Epoch 3117] it=90400, loss=0.062859
+[Epoch 3120] it=90500, loss=0.061076
+Saving checkpoint[Epoch 3124] it=90600, loss=0.060628
+[Epoch 3127] it=90700, loss=0.062061
+[Epoch 3131] it=90800, loss=0.061808
+[Epoch 3134] it=90900, loss=0.062457
+[Epoch 3137] it=91000, loss=0.063378
+Saving checkpointValidation metric : 0.061067
+[Epoch 3141] it=91100, loss=0.062274
+[Epoch 3144] it=91200, loss=0.061241
+[Epoch 3148] it=91300, loss=0.059182
+[Epoch 3151] it=91400, loss=0.061570
+[Epoch 3155] it=91500, loss=0.060731
+Saving checkpoint[Epoch 3158] it=91600, loss=0.061443
+[Epoch 3162] it=91700, loss=0.061295
+[Epoch 3165] it=91800, loss=0.060882
+[Epoch 3168] it=91900, loss=0.060734
+[Epoch 3172] it=92000, loss=0.062763
+Saving checkpointValidation metric : 0.062935
+[Epoch 3175] it=92100, loss=0.059977
+[Epoch 3179] it=92200, loss=0.063654
+[Epoch 3182] it=92300, loss=0.063371
+[Epoch 3186] it=92400, loss=0.061384
+[Epoch 3189] it=92500, loss=0.061550
+Saving checkpoint[Epoch 3193] it=92600, loss=0.061104
+[Epoch 3196] it=92700, loss=0.061029
+[Epoch 3200] it=92800, loss=0.060830
+[Epoch 3203] it=92900, loss=0.061784
+[Epoch 3206] it=93000, loss=0.063453
+Saving checkpointValidation metric : 0.061342
+[Epoch 3210] it=93100, loss=0.062815
+[Epoch 3213] it=93200, loss=0.061125
+[Epoch 3217] it=93300, loss=0.061916
+[Epoch 3220] it=93400, loss=0.062147
+[Epoch 3224] it=93500, loss=0.059992
+Saving checkpoint[Epoch 3227] it=93600, loss=0.059508
+[Epoch 3231] it=93700, loss=0.062036
+[Epoch 3234] it=93800, loss=0.062572
+[Epoch 3237] it=93900, loss=0.061054
+[Epoch 3241] it=94000, loss=0.060958
+Saving checkpointValidation metric : 0.059869
+[Epoch 3244] it=94100, loss=0.062227
+[Epoch 3248] it=94200, loss=0.063787
+[Epoch 3251] it=94300, loss=0.059479
+[Epoch 3255] it=94400, loss=0.060344
+[Epoch 3258] it=94500, loss=0.063276
+Saving checkpoint[Epoch 3262] it=94600, loss=0.060958
+[Epoch 3265] it=94700, loss=0.061260
+[Epoch 3268] it=94800, loss=0.061991
+[Epoch 3272] it=94900, loss=0.059970
+[Epoch 3275] it=95000, loss=0.062022
+Saving checkpointValidation metric : 0.062056
+[Epoch 3279] it=95100, loss=0.058827
+[Epoch 3282] it=95200, loss=0.062448
+[Epoch 3286] it=95300, loss=0.064486
+[Epoch 3289] it=95400, loss=0.063073
+[Epoch 3293] it=95500, loss=0.063596
+Saving checkpoint[Epoch 3296] it=95600, loss=0.062544
+[Epoch 3300] it=95700, loss=0.061422
+[Epoch 3303] it=95800, loss=0.060845
+[Epoch 3306] it=95900, loss=0.059801
+[Epoch 3310] it=96000, loss=0.062506
+Saving checkpointValidation metric : 0.060576
+[Epoch 3313] it=96100, loss=0.061776
+[Epoch 3317] it=96200, loss=0.060978
+[Epoch 3320] it=96300, loss=0.061387
+[Epoch 3324] it=96400, loss=0.062599
+[Epoch 3327] it=96500, loss=0.063311
+Saving checkpoint[Epoch 3331] it=96600, loss=0.059182
+[Epoch 3334] it=96700, loss=0.060018
+[Epoch 3337] it=96800, loss=0.060031
+[Epoch 3341] it=96900, loss=0.061319
+[Epoch 3344] it=97000, loss=0.064351
+Saving checkpointValidation metric : 0.060526
+[Epoch 3348] it=97100, loss=0.060847
+[Epoch 3351] it=97200, loss=0.059023
+[Epoch 3355] it=97300, loss=0.061548
+[Epoch 3358] it=97400, loss=0.060367
+[Epoch 3362] it=97500, loss=0.062092
+Saving checkpoint[Epoch 3365] it=97600, loss=0.062721
+[Epoch 3368] it=97700, loss=0.062571
+[Epoch 3372] it=97800, loss=0.063622
+[Epoch 3375] it=97900, loss=0.062566
+[Epoch 3379] it=98000, loss=0.062017
+Saving checkpointValidation metric : 0.059575
+New best model (loss 0.059575)
+[Epoch 3382] it=98100, loss=0.060926
+[Epoch 3386] it=98200, loss=0.063954
+[Epoch 3389] it=98300, loss=0.059586
+[Epoch 3393] it=98400, loss=0.060459
+[Epoch 3396] it=98500, loss=0.060592
+Saving checkpoint[Epoch 3400] it=98600, loss=0.063325
+[Epoch 3403] it=98700, loss=0.060410
+[Epoch 3406] it=98800, loss=0.060679
+[Epoch 3410] it=98900, loss=0.059822
+[Epoch 3413] it=99000, loss=0.061746
+Saving checkpointValidation metric : 0.063256
+[Epoch 3417] it=99100, loss=0.060657
+[Epoch 3420] it=99200, loss=0.061489
+[Epoch 3424] it=99300, loss=0.061921
+[Epoch 3427] it=99400, loss=0.060825
+[Epoch 3431] it=99500, loss=0.062349
+Saving checkpoint[Epoch 3434] it=99600, loss=0.062668
+[Epoch 3437] it=99700, loss=0.059156
+[Epoch 3441] it=99800, loss=0.063414
+[Epoch 3444] it=99900, loss=0.061216
+[Epoch 3448] it=100000, loss=0.061684
+Saving checkpointValidation metric : 0.060788
+[Epoch 3451] it=100100, loss=0.059337
+[Epoch 3455] it=100200, loss=0.061239
+[Epoch 3458] it=100300, loss=0.059775
+[Epoch 3462] it=100400, loss=0.061922
+[Epoch 3465] it=100500, loss=0.061335
+Saving checkpoint[Epoch 3468] it=100600, loss=0.063668
+[Epoch 3472] it=100700, loss=0.062634
+[Epoch 3475] it=100800, loss=0.062428
+[Epoch 3479] it=100900, loss=0.061173
+[Epoch 3482] it=101000, loss=0.059740
+Saving checkpointValidation metric : 0.060044
+[Epoch 3486] it=101100, loss=0.063787
+[Epoch 3489] it=101200, loss=0.061854
+[Epoch 3493] it=101300, loss=0.062253
+[Epoch 3496] it=101400, loss=0.061719
+[Epoch 3500] it=101500, loss=0.060930
+Saving checkpoint[Epoch 3503] it=101600, loss=0.062158
+[Epoch 3506] it=101700, loss=0.060194
+[Epoch 3510] it=101800, loss=0.061842
+[Epoch 3513] it=101900, loss=0.061554
+[Epoch 3517] it=102000, loss=0.060596
+Saving checkpointValidation metric : 0.062392
+[Epoch 3520] it=102100, loss=0.063645
+[Epoch 3524] it=102200, loss=0.061522
+[Epoch 3527] it=102300, loss=0.063339
+[Epoch 3531] it=102400, loss=0.063915
+[Epoch 3534] it=102500, loss=0.058651
+Saving checkpoint[Epoch 3537] it=102600, loss=0.060889
+[Epoch 3541] it=102700, loss=0.061058
+[Epoch 3544] it=102800, loss=0.056648
+[Epoch 3548] it=102900, loss=0.061930
+[Epoch 3551] it=103000, loss=0.063416
+Saving checkpointValidation metric : 0.060218
+[Epoch 3555] it=103100, loss=0.064217
+[Epoch 3558] it=103200, loss=0.062184
+[Epoch 3562] it=103300, loss=0.061239
+[Epoch 3565] it=103400, loss=0.062405
+[Epoch 3568] it=103500, loss=0.061043
+Saving checkpoint[Epoch 3572] it=103600, loss=0.065488
+[Epoch 3575] it=103700, loss=0.061754
+[Epoch 3579] it=103800, loss=0.060840
+[Epoch 3582] it=103900, loss=0.061382
+[Epoch 3586] it=104000, loss=0.059842
+Saving checkpointValidation metric : 0.061376
+[Epoch 3589] it=104100, loss=0.063488
+[Epoch 3593] it=104200, loss=0.064064
+[Epoch 3596] it=104300, loss=0.061785
+[Epoch 3600] it=104400, loss=0.059924
+[Epoch 3603] it=104500, loss=0.059906
+Saving checkpoint[Epoch 3606] it=104600, loss=0.060368
+[Epoch 3610] it=104700, loss=0.060480
+[Epoch 3613] it=104800, loss=0.059302
+[Epoch 3617] it=104900, loss=0.059744
+[Epoch 3620] it=105000, loss=0.062214
+Saving checkpointValidation metric : 0.060854
+[Epoch 3624] it=105100, loss=0.062578
+[Epoch 3627] it=105200, loss=0.061971
+[Epoch 3631] it=105300, loss=0.062906
+[Epoch 3634] it=105400, loss=0.060971
+[Epoch 3637] it=105500, loss=0.061622
+Saving checkpoint[Epoch 3641] it=105600, loss=0.061120
+[Epoch 3644] it=105700, loss=0.060037
+[Epoch 3648] it=105800, loss=0.060260
+[Epoch 3651] it=105900, loss=0.060213
+[Epoch 3655] it=106000, loss=0.061221
+Saving checkpointValidation metric : 0.060227
+[Epoch 3658] it=106100, loss=0.060061
+[Epoch 3662] it=106200, loss=0.062351
+[Epoch 3665] it=106300, loss=0.060732
+[Epoch 3668] it=106400, loss=0.060708
+[Epoch 3672] it=106500, loss=0.061537
+Saving checkpoint[Epoch 3675] it=106600, loss=0.060760
+[Epoch 3679] it=106700, loss=0.058345
+[Epoch 3682] it=106800, loss=0.064284
+[Epoch 3686] it=106900, loss=0.059717
+[Epoch 3689] it=107000, loss=0.062106
+Saving checkpointValidation metric : 0.060297
+[Epoch 3693] it=107100, loss=0.061030
+[Epoch 3696] it=107200, loss=0.060026
+[Epoch 3700] it=107300, loss=0.060826
+[Epoch 3703] it=107400, loss=0.059924
+[Epoch 3706] it=107500, loss=0.062512
+Saving checkpoint[Epoch 3710] it=107600, loss=0.062784
+[Epoch 3713] it=107700, loss=0.062647
+[Epoch 3717] it=107800, loss=0.061863
+[Epoch 3720] it=107900, loss=0.060536
+[Epoch 3724] it=108000, loss=0.060042
+Saving checkpointValidation metric : 0.060867
+[Epoch 3727] it=108100, loss=0.061620
+[Epoch 3731] it=108200, loss=0.060546
+[Epoch 3734] it=108300, loss=0.059854
+[Epoch 3737] it=108400, loss=0.060588
+[Epoch 3741] it=108500, loss=0.060704
+Saving checkpoint[Epoch 3744] it=108600, loss=0.062344
+[Epoch 3748] it=108700, loss=0.060677
+[Epoch 3751] it=108800, loss=0.059286
+[Epoch 3755] it=108900, loss=0.062331
+[Epoch 3758] it=109000, loss=0.063720
+Saving checkpointValidation metric : 0.060814
+[Epoch 3762] it=109100, loss=0.062548
+[Epoch 3765] it=109200, loss=0.061373
+[Epoch 3768] it=109300, loss=0.061859
+[Epoch 3772] it=109400, loss=0.060338
+[Epoch 3775] it=109500, loss=0.062544
+Saving checkpoint[Epoch 3779] it=109600, loss=0.062932
+[Epoch 3782] it=109700, loss=0.060850
+[Epoch 3786] it=109800, loss=0.059575
+[Epoch 3789] it=109900, loss=0.061069
+[Epoch 3793] it=110000, loss=0.061609
+Saving checkpointValidation metric : 0.059973
+[Epoch 3796] it=110100, loss=0.061471
+[Epoch 3800] it=110200, loss=0.060850
+[Epoch 3803] it=110300, loss=0.059434
+[Epoch 3806] it=110400, loss=0.060295
+[Epoch 3810] it=110500, loss=0.061401
+Saving checkpoint[Epoch 3813] it=110600, loss=0.058463
+[Epoch 3817] it=110700, loss=0.060397
+[Epoch 3820] it=110800, loss=0.061682
+[Epoch 3824] it=110900, loss=0.058984
+[Epoch 3827] it=111000, loss=0.060038
+Saving checkpointValidation metric : 0.059773
+[Epoch 3831] it=111100, loss=0.062523
+[Epoch 3834] it=111200, loss=0.062433
+[Epoch 3837] it=111300, loss=0.060291
+[Epoch 3841] it=111400, loss=0.062563
+[Epoch 3844] it=111500, loss=0.063928
+Saving checkpoint[Epoch 3848] it=111600, loss=0.060013
+[Epoch 3851] it=111700, loss=0.058209
+[Epoch 3855] it=111800, loss=0.059791
+[Epoch 3858] it=111900, loss=0.061239
+[Epoch 3862] it=112000, loss=0.060848
+Saving checkpointValidation metric : 0.059917
+[Epoch 3865] it=112100, loss=0.060933
+[Epoch 3868] it=112200, loss=0.059889
+[Epoch 3872] it=112300, loss=0.064190
+[Epoch 3875] it=112400, loss=0.063736
+[Epoch 3879] it=112500, loss=0.061397
+Saving checkpoint[Epoch 3882] it=112600, loss=0.061478
+[Epoch 3886] it=112700, loss=0.060366
+[Epoch 3889] it=112800, loss=0.062853
+[Epoch 3893] it=112900, loss=0.063281
+[Epoch 3896] it=113000, loss=0.060955
+Saving checkpointValidation metric : 0.060012
+[Epoch 3900] it=113100, loss=0.060382
+[Epoch 3903] it=113200, loss=0.060038
+[Epoch 3906] it=113300, loss=0.062220
+[Epoch 3910] it=113400, loss=0.061772
+[Epoch 3913] it=113500, loss=0.061151
+Saving checkpoint[Epoch 3917] it=113600, loss=0.063038
+[Epoch 3920] it=113700, loss=0.061756
+[Epoch 3924] it=113800, loss=0.060169
+[Epoch 3927] it=113900, loss=0.059692
+[Epoch 3931] it=114000, loss=0.061903
+Saving checkpointValidation metric : 0.059682
+[Epoch 3934] it=114100, loss=0.061387
+[Epoch 3937] it=114200, loss=0.060835
+[Epoch 3941] it=114300, loss=0.061317
+[Epoch 3944] it=114400, loss=0.059353
+[Epoch 3948] it=114500, loss=0.061466
+Saving checkpoint[Epoch 3951] it=114600, loss=0.060463
+[Epoch 3955] it=114700, loss=0.062758
+[Epoch 3958] it=114800, loss=0.059843
+[Epoch 3962] it=114900, loss=0.059233
+[Epoch 3965] it=115000, loss=0.059005
+Saving checkpointValidation metric : 0.059602
+[Epoch 3968] it=115100, loss=0.061447
+[Epoch 3972] it=115200, loss=0.062660
+[Epoch 3975] it=115300, loss=0.062864
+[Epoch 3979] it=115400, loss=0.059641
+[Epoch 3982] it=115500, loss=0.060584
+Saving checkpoint[Epoch 3986] it=115600, loss=0.059856
+[Epoch 3989] it=115700, loss=0.061195
+[Epoch 3993] it=115800, loss=0.060579
+[Epoch 3996] it=115900, loss=0.060868
+[Epoch 4000] it=116000, loss=0.062559
+Saving checkpointValidation metric : 0.061205
+[Epoch 4003] it=116100, loss=0.058651
+[Epoch 4006] it=116200, loss=0.059464
+[Epoch 4010] it=116300, loss=0.059261
+[Epoch 4013] it=116400, loss=0.061229
+[Epoch 4017] it=116500, loss=0.059961
+Saving checkpoint[Epoch 4020] it=116600, loss=0.062960
+[Epoch 4024] it=116700, loss=0.058764
+[Epoch 4027] it=116800, loss=0.061572
+[Epoch 4031] it=116900, loss=0.061525
+[Epoch 4034] it=117000, loss=0.060267
+Saving checkpointValidation metric : 0.061118
+[Epoch 4037] it=117100, loss=0.057903
+[Epoch 4041] it=117200, loss=0.060352
+[Epoch 4044] it=117300, loss=0.061814
+[Epoch 4048] it=117400, loss=0.062220
+[Epoch 4051] it=117500, loss=0.059640
+Saving checkpoint[Epoch 4055] it=117600, loss=0.062611
+[Epoch 4058] it=117700, loss=0.060030
+[Epoch 4062] it=117800, loss=0.061184
+[Epoch 4065] it=117900, loss=0.060120
+[Epoch 4068] it=118000, loss=0.059869
+Saving checkpointValidation metric : 0.059560
+New best model (loss 0.059560)
+[Epoch 4072] it=118100, loss=0.061074
+[Epoch 4075] it=118200, loss=0.060431
+[Epoch 4079] it=118300, loss=0.062411
+[Epoch 4082] it=118400, loss=0.059695
+[Epoch 4086] it=118500, loss=0.060797
+Saving checkpoint[Epoch 4089] it=118600, loss=0.059829
+[Epoch 4093] it=118700, loss=0.060922
+[Epoch 4096] it=118800, loss=0.061419
+[Epoch 4100] it=118900, loss=0.060251
+[Epoch 4103] it=119000, loss=0.062360
+Saving checkpointValidation metric : 0.059879
+[Epoch 4106] it=119100, loss=0.060558
+[Epoch 4110] it=119200, loss=0.062364
+[Epoch 4113] it=119300, loss=0.060022
+[Epoch 4117] it=119400, loss=0.059720
+[Epoch 4120] it=119500, loss=0.060019
+Saving checkpoint[Epoch 4124] it=119600, loss=0.059166
+[Epoch 4127] it=119700, loss=0.059908
+[Epoch 4131] it=119800, loss=0.060966
+[Epoch 4134] it=119900, loss=0.062123
+[Epoch 4137] it=120000, loss=0.061446
+Saving checkpointValidation metric : 0.061244
+[Epoch 4141] it=120100, loss=0.059798
+[Epoch 4144] it=120200, loss=0.059616
+[Epoch 4148] it=120300, loss=0.060903
+[Epoch 4151] it=120400, loss=0.060547
+[Epoch 4155] it=120500, loss=0.061501
+Saving checkpoint[Epoch 4158] it=120600, loss=0.060601
+[Epoch 4162] it=120700, loss=0.059537
+[Epoch 4165] it=120800, loss=0.061733
+[Epoch 4168] it=120900, loss=0.060831
+[Epoch 4172] it=121000, loss=0.061641
+Saving checkpointValidation metric : 0.059435
+New best model (loss 0.059435)
+[Epoch 4175] it=121100, loss=0.060175
+[Epoch 4179] it=121200, loss=0.058334
+[Epoch 4182] it=121300, loss=0.061933
+[Epoch 4186] it=121400, loss=0.061213
+[Epoch 4189] it=121500, loss=0.060176
+Saving checkpoint[Epoch 4193] it=121600, loss=0.062040
+[Epoch 4196] it=121700, loss=0.058920
+[Epoch 4200] it=121800, loss=0.060406
+[Epoch 4203] it=121900, loss=0.060102
+[Epoch 4206] it=122000, loss=0.061535
+Saving checkpointValidation metric : 0.059732
+[Epoch 4210] it=122100, loss=0.058367
+[Epoch 4213] it=122200, loss=0.060204
+[Epoch 4217] it=122300, loss=0.059626
+[Epoch 4220] it=122400, loss=0.060626
+[Epoch 4224] it=122500, loss=0.059568
+Saving checkpoint[Epoch 4227] it=122600, loss=0.063406
+[Epoch 4231] it=122700, loss=0.060526
+[Epoch 4234] it=122800, loss=0.058744
+[Epoch 4237] it=122900, loss=0.059686
+[Epoch 4241] it=123000, loss=0.061546
+Saving checkpointValidation metric : 0.061199
+[Epoch 4244] it=123100, loss=0.061969
+[Epoch 4248] it=123200, loss=0.060678
+[Epoch 4251] it=123300, loss=0.060774
+[Epoch 4255] it=123400, loss=0.061781
+[Epoch 4258] it=123500, loss=0.061133
+Saving checkpoint[Epoch 4262] it=123600, loss=0.058194
+[Epoch 4265] it=123700, loss=0.060084
+[Epoch 4268] it=123800, loss=0.062828
+[Epoch 4272] it=123900, loss=0.060588
+[Epoch 4275] it=124000, loss=0.059663
+Saving checkpointValidation metric : 0.058809
+New best model (loss 0.058809)
+[Epoch 4279] it=124100, loss=0.061089
+[Epoch 4282] it=124200, loss=0.057430
+[Epoch 4286] it=124300, loss=0.059970
+[Epoch 4289] it=124400, loss=0.060146
+[Epoch 4293] it=124500, loss=0.060897
+Saving checkpoint[Epoch 4296] it=124600, loss=0.061428
+[Epoch 4300] it=124700, loss=0.060390
+[Epoch 4303] it=124800, loss=0.061056
+[Epoch 4306] it=124900, loss=0.060100
+[Epoch 4310] it=125000, loss=0.057980
+Saving checkpointValidation metric : 0.060322
+[Epoch 4313] it=125100, loss=0.062223
+[Epoch 4317] it=125200, loss=0.059883
+[Epoch 4320] it=125300, loss=0.059245
+[Epoch 4324] it=125400, loss=0.061604
+[Epoch 4327] it=125500, loss=0.058956
+Saving checkpoint[Epoch 4331] it=125600, loss=0.060365
+[Epoch 4334] it=125700, loss=0.061158
+[Epoch 4337] it=125800, loss=0.060858
+[Epoch 4341] it=125900, loss=0.060723
+[Epoch 4344] it=126000, loss=0.058589
+Saving checkpointValidation metric : 0.059566
+[Epoch 4348] it=126100, loss=0.061001
+[Epoch 4351] it=126200, loss=0.060201
+[Epoch 4355] it=126300, loss=0.058741
+[Epoch 4358] it=126400, loss=0.059833
+[Epoch 4362] it=126500, loss=0.060645
+Saving checkpoint[Epoch 4365] it=126600, loss=0.062150
+[Epoch 4368] it=126700, loss=0.060427
+[Epoch 4372] it=126800, loss=0.059682
+[Epoch 4375] it=126900, loss=0.059781
+[Epoch 4379] it=127000, loss=0.058337
+Saving checkpointValidation metric : 0.059964
+[Epoch 4382] it=127100, loss=0.058062
+[Epoch 4386] it=127200, loss=0.058938
+[Epoch 4389] it=127300, loss=0.058499
+[Epoch 4393] it=127400, loss=0.061831
+[Epoch 4396] it=127500, loss=0.059811
+Saving checkpoint[Epoch 4400] it=127600, loss=0.058457
+[Epoch 4403] it=127700, loss=0.060840
+[Epoch 4406] it=127800, loss=0.059626
+[Epoch 4410] it=127900, loss=0.060707
+[Epoch 4413] it=128000, loss=0.060571
+Saving checkpointValidation metric : 0.059917
+[Epoch 4417] it=128100, loss=0.061571
+[Epoch 4420] it=128200, loss=0.062403
+[Epoch 4424] it=128300, loss=0.060712
+[Epoch 4427] it=128400, loss=0.062581
+[Epoch 4431] it=128500, loss=0.059694
+Saving checkpoint[Epoch 4434] it=128600, loss=0.059317
+[Epoch 4437] it=128700, loss=0.062203
+[Epoch 4441] it=128800, loss=0.059957
+[Epoch 4444] it=128900, loss=0.058246
+[Epoch 4448] it=129000, loss=0.058938
+Saving checkpointValidation metric : 0.060376
+[Epoch 4451] it=129100, loss=0.061358
+[Epoch 4455] it=129200, loss=0.059865
+[Epoch 4458] it=129300, loss=0.059355
+[Epoch 4462] it=129400, loss=0.059675
+[Epoch 4465] it=129500, loss=0.059428
+Saving checkpoint[Epoch 4468] it=129600, loss=0.060460
+[Epoch 4472] it=129700, loss=0.061916
+[Epoch 4475] it=129800, loss=0.059480
+[Epoch 4479] it=129900, loss=0.060530
+[Epoch 4482] it=130000, loss=0.059453
+Saving checkpointValidation metric : 0.059299
+[Epoch 4486] it=130100, loss=0.059957
+[Epoch 4489] it=130200, loss=0.060581
+[Epoch 4493] it=130300, loss=0.060476
+[Epoch 4496] it=130400, loss=0.058987
+[Epoch 4500] it=130500, loss=0.061887
+Saving checkpoint[Epoch 4503] it=130600, loss=0.059206
+[Epoch 4506] it=130700, loss=0.062253
+[Epoch 4510] it=130800, loss=0.060522
+[Epoch 4513] it=130900, loss=0.061191
+[Epoch 4517] it=131000, loss=0.060541
+Saving checkpointValidation metric : 0.059420
+[Epoch 4520] it=131100, loss=0.062089
+[Epoch 4524] it=131200, loss=0.058889
+[Epoch 4527] it=131300, loss=0.057420
+[Epoch 4531] it=131400, loss=0.059321
+[Epoch 4534] it=131500, loss=0.058141
+Saving checkpoint[Epoch 4537] it=131600, loss=0.059140
+[Epoch 4541] it=131700, loss=0.059839
+[Epoch 4544] it=131800, loss=0.061250
+[Epoch 4548] it=131900, loss=0.058034
+[Epoch 4551] it=132000, loss=0.060045
+Saving checkpointValidation metric : 0.059460
+[Epoch 4555] it=132100, loss=0.060315
+[Epoch 4558] it=132200, loss=0.059269
+[Epoch 4562] it=132300, loss=0.060618
+[Epoch 4565] it=132400, loss=0.060412
+[Epoch 4568] it=132500, loss=0.059200
+Saving checkpoint[Epoch 4572] it=132600, loss=0.060566
+[Epoch 4575] it=132700, loss=0.061621
+[Epoch 4579] it=132800, loss=0.058684
+[Epoch 4582] it=132900, loss=0.060547
+[Epoch 4586] it=133000, loss=0.060534
+Saving checkpointValidation metric : 0.059586
+[Epoch 4589] it=133100, loss=0.058322
+[Epoch 4593] it=133200, loss=0.062707
+[Epoch 4596] it=133300, loss=0.061859
+[Epoch 4600] it=133400, loss=0.059949
+[Epoch 4603] it=133500, loss=0.059912
+Saving checkpoint[Epoch 4606] it=133600, loss=0.060486
+[Epoch 4610] it=133700, loss=0.061840
+[Epoch 4613] it=133800, loss=0.058076
+[Epoch 4617] it=133900, loss=0.060913
+[Epoch 4620] it=134000, loss=0.060967
+Saving checkpointValidation metric : 0.059552
+[Epoch 4624] it=134100, loss=0.061774
+[Epoch 4627] it=134200, loss=0.059069
+[Epoch 4631] it=134300, loss=0.060586
+[Epoch 4634] it=134400, loss=0.061587
+[Epoch 4637] it=134500, loss=0.059755
+Saving checkpoint[Epoch 4641] it=134600, loss=0.062796
+[Epoch 4644] it=134700, loss=0.061384
+[Epoch 4648] it=134800, loss=0.058612
+[Epoch 4651] it=134900, loss=0.060173
+[Epoch 4655] it=135000, loss=0.062064
+Saving checkpointValidation metric : 0.059700
+[Epoch 4658] it=135100, loss=0.061078
+[Epoch 4662] it=135200, loss=0.062894
+[Epoch 4665] it=135300, loss=0.059560
+[Epoch 4668] it=135400, loss=0.060511
+[Epoch 4672] it=135500, loss=0.059865
+Saving checkpoint[Epoch 4675] it=135600, loss=0.059631
+[Epoch 4679] it=135700, loss=0.058540
+[Epoch 4682] it=135800, loss=0.060856
+[Epoch 4686] it=135900, loss=0.059775
+[Epoch 4689] it=136000, loss=0.061377
+Saving checkpointValidation metric : 0.060089
+[Epoch 4693] it=136100, loss=0.062446
+[Epoch 4696] it=136200, loss=0.059518
+[Epoch 4700] it=136300, loss=0.059961
+[Epoch 4703] it=136400, loss=0.057070
+[Epoch 4706] it=136500, loss=0.061464
+Saving checkpoint[Epoch 4710] it=136600, loss=0.057270
+[Epoch 4713] it=136700, loss=0.060737
+[Epoch 4717] it=136800, loss=0.061229
+[Epoch 4720] it=136900, loss=0.058251
+[Epoch 4724] it=137000, loss=0.063383
+Saving checkpointValidation metric : 0.059573
+[Epoch 4727] it=137100, loss=0.059548
+[Epoch 4731] it=137200, loss=0.059549
+[Epoch 4734] it=137300, loss=0.059876
+[Epoch 4737] it=137400, loss=0.059791
+[Epoch 4741] it=137500, loss=0.060871
+Saving checkpoint[Epoch 4744] it=137600, loss=0.061427
+[Epoch 4748] it=137700, loss=0.061024
+[Epoch 4751] it=137800, loss=0.058914
+[Epoch 4755] it=137900, loss=0.059932
+[Epoch 4758] it=138000, loss=0.060932
+Saving checkpointValidation metric : 0.059314
+[Epoch 4762] it=138100, loss=0.060836
+[Epoch 4765] it=138200, loss=0.059238
+[Epoch 4768] it=138300, loss=0.057102
+[Epoch 4772] it=138400, loss=0.059825
+[Epoch 4775] it=138500, loss=0.061462
+Saving checkpoint[Epoch 4779] it=138600, loss=0.059999
+[Epoch 4782] it=138700, loss=0.060278
+[Epoch 4786] it=138800, loss=0.059705
+[Epoch 4789] it=138900, loss=0.059238
+[Epoch 4793] it=139000, loss=0.062265
+Saving checkpointValidation metric : 0.059664
+[Epoch 4796] it=139100, loss=0.061623
+[Epoch 4800] it=139200, loss=0.058019
+[Epoch 4803] it=139300, loss=0.059979
+[Epoch 4806] it=139400, loss=0.060231
+[Epoch 4810] it=139500, loss=0.058160
+Saving checkpoint[Epoch 4813] it=139600, loss=0.059246
+[Epoch 4817] it=139700, loss=0.057766
+[Epoch 4820] it=139800, loss=0.060468
+[Epoch 4824] it=139900, loss=0.059215
+[Epoch 4827] it=140000, loss=0.059257
+Saving checkpointValidation metric : 0.060064
+[Epoch 4831] it=140100, loss=0.057354
+[Epoch 4834] it=140200, loss=0.059416
+[Epoch 4837] it=140300, loss=0.062184
+[Epoch 4841] it=140400, loss=0.059696
+[Epoch 4844] it=140500, loss=0.060443
+Saving checkpoint[Epoch 4848] it=140600, loss=0.060887
+[Epoch 4851] it=140700, loss=0.060244
+[Epoch 4855] it=140800, loss=0.060874
+[Epoch 4858] it=140900, loss=0.057831
+[Epoch 4862] it=141000, loss=0.059799
+Saving checkpointValidation metric : 0.059775
+[Epoch 4865] it=141100, loss=0.060961
+[Epoch 4868] it=141200, loss=0.059491
+[Epoch 4872] it=141300, loss=0.057446
+[Epoch 4875] it=141400, loss=0.059634
+[Epoch 4879] it=141500, loss=0.061970
+Saving checkpoint[Epoch 4882] it=141600, loss=0.060278
+[Epoch 4886] it=141700, loss=0.060820
+[Epoch 4889] it=141800, loss=0.058664
+[Epoch 4893] it=141900, loss=0.058383
+[Epoch 4896] it=142000, loss=0.059111
+Saving checkpointValidation metric : 0.058995
+[Epoch 4900] it=142100, loss=0.059630
+[Epoch 4903] it=142200, loss=0.059723
+[Epoch 4906] it=142300, loss=0.060661
+[Epoch 4910] it=142400, loss=0.060638
+[Epoch 4913] it=142500, loss=0.061593
+Saving checkpoint[Epoch 4917] it=142600, loss=0.059867
+[Epoch 4920] it=142700, loss=0.059481
+[Epoch 4924] it=142800, loss=0.060661
+[Epoch 4927] it=142900, loss=0.060082
+[Epoch 4931] it=143000, loss=0.060257
+Saving checkpointValidation metric : 0.059181
+[Epoch 4934] it=143100, loss=0.060040
+[Epoch 4937] it=143200, loss=0.060844
+[Epoch 4941] it=143300, loss=0.058917
+[Epoch 4944] it=143400, loss=0.062656
+[Epoch 4948] it=143500, loss=0.060645
+Saving checkpoint[Epoch 4951] it=143600, loss=0.060665
+[Epoch 4955] it=143700, loss=0.060331
+[Epoch 4958] it=143800, loss=0.060886
+[Epoch 4962] it=143900, loss=0.058746
+[Epoch 4965] it=144000, loss=0.059548
+Saving checkpointValidation metric : 0.059158
+[Epoch 4968] it=144100, loss=0.058547
+[Epoch 4972] it=144200, loss=0.058758
+[Epoch 4975] it=144300, loss=0.057961
+[Epoch 4979] it=144400, loss=0.060840
+[Epoch 4982] it=144500, loss=0.058918
+Saving checkpoint[Epoch 4986] it=144600, loss=0.057613
+[Epoch 4989] it=144700, loss=0.062136
+[Epoch 4993] it=144800, loss=0.060863
+[Epoch 4996] it=144900, loss=0.059205
+[Epoch 5000] it=145000, loss=0.060399
+Saving checkpointValidation metric : 0.058944
+[Epoch 5003] it=145100, loss=0.059574
+[Epoch 5006] it=145200, loss=0.060209
+[Epoch 5010] it=145300, loss=0.057407
+[Epoch 5013] it=145400, loss=0.057741
+[Epoch 5017] it=145500, loss=0.061194
+Saving checkpoint[Epoch 5020] it=145600, loss=0.058607
+[Epoch 5024] it=145700, loss=0.057643
+[Epoch 5027] it=145800, loss=0.058873
+[Epoch 5031] it=145900, loss=0.058036
+[Epoch 5034] it=146000, loss=0.058264
+Saving checkpointValidation metric : 0.059077
+[Epoch 5037] it=146100, loss=0.060962
+[Epoch 5041] it=146200, loss=0.059773
+[Epoch 5044] it=146300, loss=0.059712
+[Epoch 5048] it=146400, loss=0.062922
+[Epoch 5051] it=146500, loss=0.059714
+Saving checkpoint[Epoch 5055] it=146600, loss=0.060534
+[Epoch 5058] it=146700, loss=0.060299
+[Epoch 5062] it=146800, loss=0.061259
+[Epoch 5065] it=146900, loss=0.060889
+[Epoch 5068] it=147000, loss=0.061175
+Saving checkpointValidation metric : 0.059198
+[Epoch 5072] it=147100, loss=0.061408
+[Epoch 5075] it=147200, loss=0.058919
+[Epoch 5079] it=147300, loss=0.062344
+[Epoch 5082] it=147400, loss=0.059573
+[Epoch 5086] it=147500, loss=0.060177
+Saving checkpoint[Epoch 5089] it=147600, loss=0.061436
+[Epoch 5093] it=147700, loss=0.058605
+[Epoch 5096] it=147800, loss=0.059540
+[Epoch 5100] it=147900, loss=0.060570
+[Epoch 5103] it=148000, loss=0.059210
+Saving checkpointValidation metric : 0.059325
+[Epoch 5106] it=148100, loss=0.059282
+[Epoch 5110] it=148200, loss=0.062162
+[Epoch 5113] it=148300, loss=0.061556
+[Epoch 5117] it=148400, loss=0.058174
+[Epoch 5120] it=148500, loss=0.059309
+Saving checkpoint[Epoch 5124] it=148600, loss=0.060315
+[Epoch 5127] it=148700, loss=0.058219
+[Epoch 5131] it=148800, loss=0.057531
+[Epoch 5134] it=148900, loss=0.062424
+[Epoch 5137] it=149000, loss=0.058800
+Saving checkpointValidation metric : 0.059029
+[Epoch 5141] it=149100, loss=0.058042
+[Epoch 5144] it=149200, loss=0.061251
+[Epoch 5148] it=149300, loss=0.058453
+[Epoch 5151] it=149400, loss=0.061505
+[Epoch 5155] it=149500, loss=0.062281
+Saving checkpoint[Epoch 5158] it=149600, loss=0.058817
+[Epoch 5162] it=149700, loss=0.057136
+[Epoch 5165] it=149800, loss=0.061083
+[Epoch 5168] it=149900, loss=0.058963
+[Epoch 5172] it=150000, loss=0.062804
+Saving checkpointValidation metric : 0.059185
+[Epoch 5175] it=150100, loss=0.059783
+[Epoch 5179] it=150200, loss=0.059869
+[Epoch 5182] it=150300, loss=0.058931
+[Epoch 5186] it=150400, loss=0.058964
+[Epoch 5189] it=150500, loss=0.059866
+Saving checkpoint[Epoch 5193] it=150600, loss=0.060550
+[Epoch 5196] it=150700, loss=0.059484
+[Epoch 5200] it=150800, loss=0.059510
+[Epoch 5203] it=150900, loss=0.058543
+[Epoch 5206] it=151000, loss=0.061754
+Saving checkpointValidation metric : 0.058911
+[Epoch 5210] it=151100, loss=0.059340
+[Epoch 5213] it=151200, loss=0.058939
+[Epoch 5217] it=151300, loss=0.058330
+[Epoch 5220] it=151400, loss=0.058548
+[Epoch 5224] it=151500, loss=0.061717
+Saving checkpoint[Epoch 5227] it=151600, loss=0.058862
+[Epoch 5231] it=151700, loss=0.060998
+[Epoch 5234] it=151800, loss=0.060208
+[Epoch 5237] it=151900, loss=0.061074
+[Epoch 5241] it=152000, loss=0.058517
+Saving checkpointValidation metric : 0.059141
+[Epoch 5244] it=152100, loss=0.059873
+[Epoch 5248] it=152200, loss=0.060683
+[Epoch 5251] it=152300, loss=0.058633
+[Epoch 5255] it=152400, loss=0.060361
+[Epoch 5258] it=152500, loss=0.058161
+Saving checkpoint[Epoch 5262] it=152600, loss=0.060262
+[Epoch 5265] it=152700, loss=0.057046
+[Epoch 5268] it=152800, loss=0.059123
+[Epoch 5272] it=152900, loss=0.059129
+[Epoch 5275] it=153000, loss=0.059736
+Saving checkpointValidation metric : 0.058923
+[Epoch 5279] it=153100, loss=0.059351
+[Epoch 5282] it=153200, loss=0.058717
+[Epoch 5286] it=153300, loss=0.059217
+[Epoch 5289] it=153400, loss=0.060902
+[Epoch 5293] it=153500, loss=0.060870
+Saving checkpoint[Epoch 5296] it=153600, loss=0.059233
+[Epoch 5300] it=153700, loss=0.058090
+[Epoch 5303] it=153800, loss=0.058129
+[Epoch 5306] it=153900, loss=0.058734
+[Epoch 5310] it=154000, loss=0.059543
+Saving checkpointValidation metric : 0.058896
+[Epoch 5313] it=154100, loss=0.060749
+[Epoch 5317] it=154200, loss=0.060178
+[Epoch 5320] it=154300, loss=0.059417
+[Epoch 5324] it=154400, loss=0.059015
+[Epoch 5327] it=154500, loss=0.059045
+Saving checkpoint[Epoch 5331] it=154600, loss=0.059888
+[Epoch 5334] it=154700, loss=0.061243
+[Epoch 5337] it=154800, loss=0.059507
+[Epoch 5341] it=154900, loss=0.061243
+[Epoch 5344] it=155000, loss=0.060133
+Saving checkpointValidation metric : 0.058809
+[Epoch 5348] it=155100, loss=0.059510
+[Epoch 5351] it=155200, loss=0.055985
+[Epoch 5355] it=155300, loss=0.060567
+[Epoch 5358] it=155400, loss=0.059735
+[Epoch 5362] it=155500, loss=0.057908
+Saving checkpoint[Epoch 5365] it=155600, loss=0.060634
+[Epoch 5368] it=155700, loss=0.062113
+[Epoch 5372] it=155800, loss=0.056995
+[Epoch 5375] it=155900, loss=0.057829
+[Epoch 5379] it=156000, loss=0.058829
+Saving checkpointValidation metric : 0.058762
+New best model (loss 0.058762)
+[Epoch 5382] it=156100, loss=0.058147
+[Epoch 5386] it=156200, loss=0.060329
+[Epoch 5389] it=156300, loss=0.059102
+[Epoch 5393] it=156400, loss=0.059502
+[Epoch 5396] it=156500, loss=0.063157
+Saving checkpoint[Epoch 5400] it=156600, loss=0.060291
+[Epoch 5403] it=156700, loss=0.060139
+[Epoch 5406] it=156800, loss=0.059708
+[Epoch 5410] it=156900, loss=0.060551
+[Epoch 5413] it=157000, loss=0.061817
+Saving checkpointValidation metric : 0.058700
+New best model (loss 0.058700)
+[Epoch 5417] it=157100, loss=0.059257
+[Epoch 5420] it=157200, loss=0.057685
+[Epoch 5424] it=157300, loss=0.060726
+[Epoch 5427] it=157400, loss=0.057557
+[Epoch 5431] it=157500, loss=0.057377
+Saving checkpoint[Epoch 5434] it=157600, loss=0.058669
+[Epoch 5437] it=157700, loss=0.058897
+[Epoch 5441] it=157800, loss=0.059480
+[Epoch 5444] it=157900, loss=0.057938
+[Epoch 5448] it=158000, loss=0.060692
+Saving checkpointValidation metric : 0.058616
+New best model (loss 0.058616)
+[Epoch 5451] it=158100, loss=0.060285
+[Epoch 5455] it=158200, loss=0.059648
+[Epoch 5458] it=158300, loss=0.060345
+[Epoch 5462] it=158400, loss=0.059093
+[Epoch 5465] it=158500, loss=0.057986
+Saving checkpoint[Epoch 5468] it=158600, loss=0.061531
+[Epoch 5472] it=158700, loss=0.059927
+[Epoch 5475] it=158800, loss=0.060089
+[Epoch 5479] it=158900, loss=0.058795
+[Epoch 5482] it=159000, loss=0.057502
+Saving checkpointValidation metric : 0.058614
+New best model (loss 0.058614)
+[Epoch 5486] it=159100, loss=0.060874
+[Epoch 5489] it=159200, loss=0.058980
+[Epoch 5493] it=159300, loss=0.057113
+[Epoch 5496] it=159400, loss=0.059463
+[Epoch 5500] it=159500, loss=0.058068
+Saving checkpoint[Epoch 5503] it=159600, loss=0.057893
+[Epoch 5506] it=159700, loss=0.060391
+[Epoch 5510] it=159800, loss=0.061195
+[Epoch 5513] it=159900, loss=0.061826
+[Epoch 5517] it=160000, loss=0.058456
+Saving checkpointValidation metric : 0.058708
+[Epoch 5520] it=160100, loss=0.061910
+[Epoch 5524] it=160200, loss=0.060226
+[Epoch 5527] it=160300, loss=0.061189
+[Epoch 5531] it=160400, loss=0.061102
+[Epoch 5534] it=160500, loss=0.058513
+Saving checkpoint[Epoch 5537] it=160600, loss=0.060312
+[Epoch 5541] it=160700, loss=0.061142
+[Epoch 5544] it=160800, loss=0.059228
+[Epoch 5548] it=160900, loss=0.059535
+[Epoch 5551] it=161000, loss=0.061510
+Saving checkpointValidation metric : 0.058842
+[Epoch 5555] it=161100, loss=0.058820
+[Epoch 5558] it=161200, loss=0.061884
+[Epoch 5562] it=161300, loss=0.060158
+[Epoch 5565] it=161400, loss=0.060507
+[Epoch 5568] it=161500, loss=0.060167
+Saving checkpoint[Epoch 5572] it=161600, loss=0.059212
+[Epoch 5575] it=161700, loss=0.060154
+[Epoch 5579] it=161800, loss=0.058934
+[Epoch 5582] it=161900, loss=0.057893
+[Epoch 5586] it=162000, loss=0.057880
+Saving checkpointValidation metric : 0.058630
+[Epoch 5589] it=162100, loss=0.061112
+[Epoch 5593] it=162200, loss=0.060485
+[Epoch 5596] it=162300, loss=0.057483
+[Epoch 5600] it=162400, loss=0.059980
+[Epoch 5603] it=162500, loss=0.059059
+Saving checkpoint[Epoch 5606] it=162600, loss=0.060028
+[Epoch 5610] it=162700, loss=0.062520
+[Epoch 5613] it=162800, loss=0.058636
+[Epoch 5617] it=162900, loss=0.058362
+[Epoch 5620] it=163000, loss=0.059452
+Saving checkpointValidation metric : 0.058741
+[Epoch 5624] it=163100, loss=0.058654
+[Epoch 5627] it=163200, loss=0.058837
+[Epoch 5631] it=163300, loss=0.059854
+[Epoch 5634] it=163400, loss=0.059020
+[Epoch 5637] it=163500, loss=0.060919
+Saving checkpoint[Epoch 5641] it=163600, loss=0.059997
+[Epoch 5644] it=163700, loss=0.058161
+[Epoch 5648] it=163800, loss=0.061481
+[Epoch 5651] it=163900, loss=0.059918
+[Epoch 5655] it=164000, loss=0.060874
+Saving checkpointValidation metric : 0.058700
+[Epoch 5658] it=164100, loss=0.058887
+[Epoch 5662] it=164200, loss=0.059682
+[Epoch 5665] it=164300, loss=0.060781
+[Epoch 5668] it=164400, loss=0.060579
+[Epoch 5672] it=164500, loss=0.058606
+Saving checkpoint[Epoch 5675] it=164600, loss=0.057975
+[Epoch 5679] it=164700, loss=0.057292
+[Epoch 5682] it=164800, loss=0.057614
+[Epoch 5686] it=164900, loss=0.058997
+[Epoch 5689] it=165000, loss=0.056752
+Saving checkpointValidation metric : 0.058802
+[Epoch 5693] it=165100, loss=0.060089
+[Epoch 5696] it=165200, loss=0.058971
+[Epoch 5700] it=165300, loss=0.060446
+[Epoch 5703] it=165400, loss=0.060779
+[Epoch 5706] it=165500, loss=0.059816
+Saving checkpoint[Epoch 5710] it=165600, loss=0.059413
+[Epoch 5713] it=165700, loss=0.059863
+[Epoch 5717] it=165800, loss=0.060410
+[Epoch 5720] it=165900, loss=0.059801
+[Epoch 5724] it=166000, loss=0.057951
+Saving checkpointValidation metric : 0.058685
+[Epoch 5727] it=166100, loss=0.056717
+[Epoch 5731] it=166200, loss=0.059423
+[Epoch 5734] it=166300, loss=0.058296
+[Epoch 5737] it=166400, loss=0.060114
+[Epoch 5741] it=166500, loss=0.059468
+Saving checkpoint[Epoch 5744] it=166600, loss=0.060485
+[Epoch 5748] it=166700, loss=0.059054
+[Epoch 5751] it=166800, loss=0.058903
+[Epoch 5755] it=166900, loss=0.057603
+[Epoch 5758] it=167000, loss=0.059724
+Saving checkpointValidation metric : 0.058599
+New best model (loss 0.058599)
+[Epoch 5762] it=167100, loss=0.057787
+[Epoch 5765] it=167200, loss=0.057782
+[Epoch 5768] it=167300, loss=0.062235
+[Epoch 5772] it=167400, loss=0.061659
+[Epoch 5775] it=167500, loss=0.060745
+Saving checkpoint[Epoch 5779] it=167600, loss=0.059293
+[Epoch 5782] it=167700, loss=0.059275
+[Epoch 5786] it=167800, loss=0.061359
+[Epoch 5789] it=167900, loss=0.059054
+[Epoch 5793] it=168000, loss=0.061051
+Saving checkpointValidation metric : 0.058592
+New best model (loss 0.058592)
+[Epoch 5796] it=168100, loss=0.060507
+[Epoch 5800] it=168200, loss=0.059367
+[Epoch 5803] it=168300, loss=0.059093
+[Epoch 5806] it=168400, loss=0.057227
+[Epoch 5810] it=168500, loss=0.059529
+Saving checkpoint[Epoch 5813] it=168600, loss=0.057257
+[Epoch 5817] it=168700, loss=0.060209
+[Epoch 5820] it=168800, loss=0.057415
+[Epoch 5824] it=168900, loss=0.059588
+[Epoch 5827] it=169000, loss=0.059684
+Saving checkpointValidation metric : 0.058546
+New best model (loss 0.058546)
+[Epoch 5831] it=169100, loss=0.058763
+[Epoch 5834] it=169200, loss=0.056908
+[Epoch 5837] it=169300, loss=0.059092
+[Epoch 5841] it=169400, loss=0.059256
+[Epoch 5844] it=169500, loss=0.058529
+Saving checkpoint[Epoch 5848] it=169600, loss=0.062421
+[Epoch 5851] it=169700, loss=0.059680
+[Epoch 5855] it=169800, loss=0.059771
+[Epoch 5858] it=169900, loss=0.058952
+[Epoch 5862] it=170000, loss=0.058107
+Saving checkpointValidation metric : 0.058602
+[Epoch 5865] it=170100, loss=0.059086
+[Epoch 5868] it=170200, loss=0.060947
+[Epoch 5872] it=170300, loss=0.058425
+[Epoch 5875] it=170400, loss=0.059848
+[Epoch 5879] it=170500, loss=0.059528
+Saving checkpoint[Epoch 5882] it=170600, loss=0.060545
+[Epoch 5886] it=170700, loss=0.057107
+[Epoch 5889] it=170800, loss=0.056886
+[Epoch 5893] it=170900, loss=0.059830
+[Epoch 5896] it=171000, loss=0.059917
+Saving checkpointValidation metric : 0.058600
+[Epoch 5900] it=171100, loss=0.059546
+[Epoch 5903] it=171200, loss=0.058248
+[Epoch 5906] it=171300, loss=0.059591
+[Epoch 5910] it=171400, loss=0.060688
+[Epoch 5913] it=171500, loss=0.060891
+Saving checkpoint[Epoch 5917] it=171600, loss=0.059157
+[Epoch 5920] it=171700, loss=0.058669
+[Epoch 5924] it=171800, loss=0.060171
+[Epoch 5927] it=171900, loss=0.059028
+[Epoch 5931] it=172000, loss=0.058022
+Saving checkpointValidation metric : 0.058587
+[Epoch 5934] it=172100, loss=0.059186
+[Epoch 5937] it=172200, loss=0.060634
+[Epoch 5941] it=172300, loss=0.059360
+[Epoch 5944] it=172400, loss=0.059825
+[Epoch 5948] it=172500, loss=0.057568
+Saving checkpoint[Epoch 5951] it=172600, loss=0.059020
+[Epoch 5955] it=172700, loss=0.057882
+[Epoch 5958] it=172800, loss=0.060878
+[Epoch 5962] it=172900, loss=0.058340
+[Epoch 5965] it=173000, loss=0.060220
+Saving checkpointValidation metric : 0.058585
+[Epoch 5968] it=173100, loss=0.060218
+[Epoch 5972] it=173200, loss=0.058099
+[Epoch 5975] it=173300, loss=0.059197
+[Epoch 5979] it=173400, loss=0.061754
+[Epoch 5982] it=173500, loss=0.056197
+Saving checkpoint[Epoch 5986] it=173600, loss=0.059896
+[Epoch 5989] it=173700, loss=0.058670
+[Epoch 5993] it=173800, loss=0.061180
+[Epoch 5996] it=173900, loss=0.059058
+[Epoch 6000] it=174000, loss=0.059760
+Saving checkpointValidation metric : 0.058649
