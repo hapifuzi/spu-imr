@@ -25,8 +25,8 @@ https://1drv.ms/f/s!AsP2NtMX-kUTml4U3DYUD6Hy9FJn?e=8QfJTH
 ### a. Download models
 Download the pretrained models from the link and unzip it to ./out/
 ```
-link: https://pan.baidu.com/s/1cDm9_OowPoEx8D0BLADS4g?pwd=hpfz
-code: hpfz 
+Link: https://pan.baidu.com/s/1cDm9_OowPoEx8D0BLADS4g?pwd=hpfz
+Access code: hpfz 
 ```
 ### b. Evaluation
 ```
