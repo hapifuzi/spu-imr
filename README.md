@@ -11,7 +11,7 @@ python train.py
 ```
 
 ## Dataset
-The dataset we used for training and testing is obtained by [SAPCU](https://github.com/xnowbzhao/sapcu), we further use FPS to downsample the input point clouds to 1024 size.
+The dataset we used for training and testing is obtained by [SAPCU](https://github.com/xnowbzhao/sapcu).
 ```
 https://pan.baidu.com/s/1OPVnCHq129DBMWh5BA2Whg 
 access code: hgii
