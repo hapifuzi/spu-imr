@@ -24,8 +24,8 @@ https://1drv.ms/f/s!AsP2NtMX-kUTml4U3DYUD6Hy9FJn?e=8QfJTH
 ### a. Download models
 Download the pretrained models from the link and unzip it to ./out/
 ```
-Link: https://pan.baidu.com/s/1ku7y7fLgJlsreTIx1Zlb4w?pwd=zxys
-Access code: zxys 
+Link: https://pan.baidu.com/s/1yvC3G2Cgigo71aoQftXp_A?pwd=b8nv
+Access code: b8nv
 ```
 ### b. Evaluation
 ```
