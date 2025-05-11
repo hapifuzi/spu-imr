@@ -9,7 +9,6 @@ cuda >= 11.1
 ```
 python train.py
 ```
-
 ## Dataset
 The dataset we used for training and testing is obtained by [SAPCU](https://github.com/xnowbzhao/sapcu).
 ```
